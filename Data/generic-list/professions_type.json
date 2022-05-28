@@ -1,0 +1,459 @@
+{
+"dtref_profession": [
+	{
+		"id" : "edbdb150-2af8-497b-bfd2-e59d786a3619",
+		"code" : "",
+		"name" : "Otro",
+		"translations" : ""
+	},
+	{
+		"id" : "55d4c3bb-b07b-44c8-bb73-7841b04391ac",
+		"code" : "",
+		"name" : "Abogado",
+		"translations" : ""
+	},
+	{
+		"id" : "73de4e17-1934-475b-bdae-5ee3bff2c82f",
+		"code" : "",
+		"name" : "Administrador",
+		"translations" : ""
+	},
+	{
+		"id" : "80c22e5f-effc-474b-938c-47fff3553217",
+		"code" : "",
+		"name" : "Almacenista",
+		"translations" : ""
+	},
+	{
+		"id" : "14c9bd80-b5d4-44f0-9ac1-5ecc4c9c5648",
+		"code" : "",
+		"name" : "Analista",
+		"translations" : ""
+	},
+	{
+		"id" : "5a69abaf-2f1c-4ab6-b37d-937c66343874",
+		"code" : "",
+		"name" : "Asesor",
+		"translations" : ""
+	},
+	{
+		"id" : "b73bb0de-3b95-4b0f-8743-2700232962ab",
+		"code" : "",
+		"name" : "Asistente",
+		"translations" : ""
+	},
+	{
+		"id" : "e44182be-c3f1-4e26-a069-c246db5b442b",
+		"code" : "",
+		"name" : "Asistente de investigación",
+		"translations" : ""
+	},
+	{
+		"id" : "aa5d29ff-b4e2-4a45-b3b6-ade7a3c567b1",
+		"code" : "",
+		"name" : "Auditor",
+		"translations" : ""
+	},
+	{
+		"id" : "0c97f52d-a784-48fc-be67-db21939a8f3e",
+		"code" : "",
+		"name" : "Auxiliar",
+		"translations" : ""
+	},
+	{
+		"id" : "bf2565a7-e755-42c0-960c-14a4105fde17",
+		"code" : "",
+		"name" : "Auxiliar de Vuelo",
+		"translations" : ""
+	},
+	{
+		"id" : "40e4aaf8-2504-4696-a080-7c564129ee53",
+		"code" : "",
+		"name" : "Botones",
+		"translations" : ""
+	},
+	{
+		"id" : "d844ff88-3ad8-4f31-83e8-a4c05bc449d0",
+		"code" : "",
+		"name" : "Cajero",
+		"translations" : ""
+	},
+	{
+		"id" : "f658e46b-8863-46a7-861d-0489fc7fb042",
+		"code" : "",
+		"name" : "Camarera",
+		"translations" : ""
+	},
+	{
+		"id" : "b2539a95-ab1b-40b4-a31e-989b7589f102",
+		"code" : "",
+		"name" : "Comunicador social",
+		"translations" : ""
+	},
+	{
+		"id" : "d075759c-3c0e-4c88-a50b-8a6a974ef711",
+		"code" : "",
+		"name" : "Conductor",
+		"translations" : ""
+	},
+	{
+		"id" : "dd6d0260-ebd2-4519-aced-04cc747888ef",
+		"code" : "",
+		"name" : "Conserje",
+		"translations" : ""
+	},
+	{
+		"id" : "104de57a-3f4c-487d-9e49-0b8e0897bb42",
+		"code" : "",
+		"name" : "Consultor",
+		"translations" : ""
+	},
+	{
+		"id" : "cacf832e-577c-4e23-b9d9-2c35d01e6afc",
+		"code" : "",
+		"name" : "Contador",
+		"translations" : ""
+	},
+	{
+		"id" : "dae7d141-3175-4091-b0ec-46583408817d",
+		"code" : "",
+		"name" : "Contralor",
+		"translations" : ""
+	},
+	{
+		"id" : "550a7b57-c06d-4940-9e9a-4f2e1de7d9d0",
+		"code" : "",
+		"name" : "Coordinador",
+		"translations" : ""
+	},
+	{
+		"id" : "3ec548c9-5087-4045-82f4-a5fae9c7d8aa",
+		"code" : "",
+		"name" : "Cuñero",
+		"translations" : ""
+	},
+	{
+		"id" : "10952155-e709-4d61-b73e-ac8a72aaf2b7",
+		"code" : "",
+		"name" : "Despachador",
+		"translations" : ""
+	},
+	{
+		"id" : "4fa053c1-f8af-4949-9083-db4a9eca6f3e",
+		"code" : "",
+		"name" : "Dibujante",
+		"translations" : ""
+	},
+	{
+		"id" : "3b5d3e80-b8f3-47e8-9434-e7db02763ed5",
+		"code" : "",
+		"name" : "Director",
+		"translations" : ""
+	},
+	{
+		"id" : "6be185d8-3bd7-44b0-afe8-88fddfc304e1",
+		"code" : "",
+		"name" : "Diseñador",
+		"translations" : ""
+	},
+	{
+		"id" : "53203ebe-ea79-4527-96d7-06bba491ff1b",
+		"code" : "",
+		"name" : "Docente o profesor",
+		"translations" : ""
+	},
+	{
+		"id" : "1844c955-b22d-481d-9ace-3dafc9c5466d",
+		"code" : "",
+		"name" : "Editor",
+		"translations" : ""
+	},
+	{
+		"id" : "e04cea01-d3e8-4c05-b250-f8341c801a7c",
+		"code" : "",
+		"name" : "Ejecutivo",
+		"translations" : ""
+	},
+	{
+		"id" : "48158cdd-5040-44cb-8426-e98c75295811",
+		"code" : "",
+		"name" : "Encuellador",
+		"translations" : ""
+	},
+	{
+		"id" : "4334e388-112b-42d0-bb1d-4e207979f790",
+		"code" : "",
+		"name" : "Enfermero (a)",
+		"translations" : ""
+	},
+	{
+		"id" : "6cb0a412-3266-4471-832f-ab05f9fe62d4",
+		"code" : "",
+		"name" : "Entrenador\/capacitador",
+		"translations" : ""
+	},
+	{
+		"id" : "84910e57-0aec-4479-8db0-6cd09ffefaba",
+		"code" : "",
+		"name" : "Geofísico",
+		"translations" : ""
+	},
+	{
+		"id" : "399ec616-71fb-45af-bffa-da2bbd74b91e",
+		"code" : "",
+		"name" : "Gerente",
+		"translations" : ""
+	},
+	{
+		"id" : "e192b1c4-122c-49fa-8566-57189894fd6c",
+		"code" : "",
+		"name" : "Gerente general",
+		"translations" : ""
+	},
+	{
+		"id" : "63e89072-db97-413e-923b-375d56150528",
+		"code" : "",
+		"name" : "Hostess",
+		"translations" : ""
+	},
+	{
+		"id" : "232b0a87-084a-47ca-a589-18615a3b17c2",
+		"code" : "",
+		"name" : "Impulsadora",
+		"translations" : ""
+	},
+	{
+		"id" : "a52db079-be80-413c-8790-82857a567052",
+		"code" : "",
+		"name" : "Ingeniero",
+		"translations" : ""
+	},
+	{
+		"id" : "a49bda3e-fcdf-4ea1-b557-7c57e935178b",
+		"code" : "",
+		"name" : "Inspector",
+		"translations" : ""
+	},
+	{
+		"id" : "8cd03f74-c168-4397-8a7a-ee16a3d537ab",
+		"code" : "",
+		"name" : "Interventor",
+		"translations" : ""
+	},
+	{
+		"id" : "94969765-455c-4de1-8875-ffe74897a641",
+		"code" : "",
+		"name" : "Jefe",
+		"translations" : ""
+	},
+	{
+		"id" : "edecb299-4240-4be1-baea-a79565c006b6",
+		"code" : "",
+		"name" : "Maitress",
+		"translations" : ""
+	},
+	{
+		"id" : "6b46edf9-6ed6-4ebe-898b-8c38ff8be756",
+		"code" : "",
+		"name" : "Médico",
+		"translations" : ""
+	},
+	{
+		"id" : "f6e67d5c-4845-4690-884f-11826a1f63e7",
+		"code" : "",
+		"name" : "Mensajero",
+		"translations" : ""
+	},
+	{
+		"id" : "9dd5e4d9-5ce4-44ff-b6ba-ab2559176e11",
+		"code" : "",
+		"name" : "Mercaderista",
+		"translations" : ""
+	},
+	{
+		"id" : "b4036508-9ba1-48bf-acf6-013dc4b94560",
+		"code" : "",
+		"name" : "Mesero",
+		"translations" : ""
+	},
+	{
+		"id" : "52798261-95b1-42fe-b472-7adf62d8a19e",
+		"code" : "",
+		"name" : "Odontólogo",
+		"translations" : ""
+	},
+	{
+		"id" : "af0d405a-a679-4789-8a8b-14bcc1905d7a",
+		"code" : "",
+		"name" : "Operador de equipos petroleros",
+		"translations" : ""
+	},
+	{
+		"id" : "eed3623b-c90f-40d0-a855-29cd6676bddf",
+		"code" : "",
+		"name" : "Operario",
+		"translations" : ""
+	},
+	{
+		"id" : "849f9ae4-4b10-4426-a3f4-0fcfc9e1881f",
+		"code" : "",
+		"name" : "Practicante",
+		"translations" : ""
+	},
+	{
+		"id" : "44305048-f99e-4290-9d4b-25389fa8ddd2",
+		"code" : "",
+		"name" : "Preparador de alimentos",
+		"translations" : ""
+	},
+	{
+		"id" : "8983ce94-9951-486c-b235-bfc15628d567",
+		"code" : "",
+		"name" : "Presidente",
+		"translations" : ""
+	},
+	{
+		"id" : "6c33f174-ed95-4d2c-84fc-ac6f0dc39d78",
+		"code" : "",
+		"name" : "Profesional",
+		"translations" : ""
+	},
+	{
+		"id" : "2a141bac-70ba-4991-8365-208a53c39489",
+		"code" : "",
+		"name" : "Profesional técnico en perforación",
+		"translations" : ""
+	},
+	{
+		"id" : "f179d9bc-053f-430b-9473-ead311317155",
+		"code" : "",
+		"name" : "Profesional tecnico HSE",
+		"translations" : ""
+	},
+	{
+		"id" : "8c8d40b4-01eb-486e-90dc-76cfac456ae1",
+		"code" : "",
+		"name" : "Programador",
+		"translations" : ""
+	},
+	{
+		"id" : "1df3f0e1-9fbb-4bac-8609-dc0243a2bc14",
+		"code" : "",
+		"name" : "Promotor",
+		"translations" : ""
+	},
+	{
+		"id" : "22018df6-50cf-4c2c-a5b8-d5952940f359",
+		"code" : "",
+		"name" : "Recepcionista",
+		"translations" : ""
+	},
+	{
+		"id" : "d477c246-8ed8-4697-9784-26d0e55d1bcf",
+		"code" : "",
+		"name" : "Redactor",
+		"translations" : ""
+	},
+	{
+		"id" : "3b724c66-0ce4-408e-a059-8e0f2f1f2207",
+		"code" : "",
+		"name" : "Reportero",
+		"translations" : ""
+	},
+	{
+		"id" : "954b2012-e407-469e-9a07-895b843ad5e8",
+		"code" : "",
+		"name" : "Representante de ventas",
+		"translations" : ""
+	},
+	{
+		"id" : "475ecfb0-39a7-454e-b7c7-8292a1e60221",
+		"code" : "",
+		"name" : "Residente",
+		"translations" : ""
+	},
+	{
+		"id" : "dce3526e-bdfb-44a8-b083-5b62e16bb5b5",
+		"code" : "",
+		"name" : "Revisor fiscal",
+		"translations" : ""
+	},
+	{
+		"id" : "47ad7d5c-f716-4ea3-9d91-98fef54b4a98",
+		"code" : "",
+		"name" : "Secretaria",
+		"translations" : ""
+	},
+	{
+		"id" : "2a69baf5-7c2e-4d8a-a677-0e62bc67ed3e",
+		"code" : "",
+		"name" : "Sin Definir",
+		"translations" : ""
+	},
+	{
+		"id" : "7be5e1b5-7266-4fc6-9ea3-3dee4adce6a1",
+		"code" : "",
+		"name" : "Subdirector",
+		"translations" : ""
+	},
+	{
+		"id" : "23909bb8-1598-4f81-bee9-052f739fb0c2",
+		"code" : "",
+		"name" : "Subgerente",
+		"translations" : ""
+	},
+	{
+		"id" : "f6dc6ece-e27d-459a-ab59-b2e67889594d",
+		"code" : "",
+		"name" : "Supernumerario",
+		"translations" : ""
+	},
+	{
+		"id" : "eea7f724-3ab7-4452-b608-5787d8ef4fed",
+		"code" : "",
+		"name" : "Supervisor",
+		"translations" : ""
+	},
+	{
+		"id" : "b60e3efd-6fa6-4ea0-b25a-3f6a648da762",
+		"code" : "",
+		"name" : "Técnico",
+		"translations" : ""
+	},
+	{
+		"id" : "e7d36e1a-652d-457d-87a5-e5ceca519f47",
+		"code" : "",
+		"name" : "Técnico de mantenimiento",
+		"translations" : ""
+	},
+	{
+		"id" : "fcd7a7c1-d604-41bc-b88c-8008a43bf659",
+		"code" : "",
+		"name" : "Trader",
+		"translations" : ""
+	},
+	{
+		"id" : "1b595d09-6440-4bd3-bdde-a066c2addd19",
+		"code" : "",
+		"name" : "Vendedor",
+		"translations" : ""
+	},
+	{
+		"id" : "dbe6361b-6b49-439a-8e8e-c569836bc742",
+		"code" : "",
+		"name" : "Vicepresidente",
+		"translations" : ""
+	},
+	{
+		"id" : "1a925999-aec4-4d96-986b-6bb9fa2d6782",
+		"code" : "",
+		"name" : "Visitador médico",
+		"translations" : ""
+	},
+	{
+		"id" : "f16a2755-0e82-499e-aa93-5938fb34a325",
+		"code" : "",
+		"name" : "Webmaster",
+		"translations" : ""
+	}
+]}

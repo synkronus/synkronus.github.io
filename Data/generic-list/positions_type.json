@@ -1,0 +1,57 @@
+{
+"dtref_position": [
+	{
+		"id" : "f4bca0a3-01ab-4cdd-8480-e8ea91754a26",
+		"name" : "Presidente",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "0d3804f7-f1ab-429f-be38-d15aaebb919e",
+		"name" : "Vicepresidente",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "946ada61-5817-4ecc-a681-3a370043d93d",
+		"name" : "Gerente Senior",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "7158c083-aeee-4a77-87e4-9bb2839c5c85",
+		"name" : "Gerente",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "2eeaea1d-effc-47f4-ba6f-e4c3c5bbac25",
+		"name" : "Coordinador supervisor o especialista",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "6096e848-7ad6-4b7a-9a58-ef9c76abca05",
+		"name" : "Profesional Senior",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "41ab3650-5f07-46c3-9370-c7d32f0b126a",
+		"name" : "Profesional",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "d5343109-f8f7-4fdc-8e59-16e6d09c75b1",
+		"name" : "Profesional Junior",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "c9ad4c0c-52a1-424e-9e79-c9a0939e7dd5",
+		"name" : "Auxiliar, asistencial y otros",
+		"description" : "",
+		"translations" : ""
+	}
+]}

@@ -1,0 +1,39 @@
+{
+"mstr_type_hierarchy": [
+	{
+		"id" : 1,
+		"name" : "Company Group",
+		"description" : "Top Company organization",
+		"hierarchy_group" : "Group"
+	},
+	{
+		"id" : 2,
+		"name" : "Company",
+		"description" : "Company hierarchy group",
+		"hierarchy_group" : "Organization"
+	},
+	{
+		"id" : 3,
+		"name" : "Division",
+		"description" : "Company division hierarchy comapny",
+		"hierarchy_group" : "Organization"
+	},
+	{
+		"id" : 4,
+		"name" : "Subsidiary",
+		"description" : "Company subsidiary hierarchy Division",
+		"hierarchy_group" : "Organization"
+	},
+	{
+		"id" : 5,
+		"name" : "Department",
+		"description" : "Organization department",
+		"hierarchy_group" : "Department"
+	},
+	{
+		"id" : 6,
+		"name" : "Area",
+		"description" : "Organization department area",
+		"hierarchy_group" : "Area"
+	}
+]}

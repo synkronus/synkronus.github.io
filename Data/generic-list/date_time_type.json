@@ -1,0 +1,220 @@
+{
+"dtref_generic_date_time": [
+	{
+		"id" : "8fdfb331-d66e-48f3-b903-8f5601393742",
+		"parent_id" : null,
+		"format" : "Formato fecha",
+		"code" : "01",
+		"translations" : "Date time format"
+	},
+	{
+		"id" : "2a104ccd-9427-490d-80b5-df418f2e0352",
+		"parent_id" : null,
+		"format" : "Formato horario",
+		"code" : "02",
+		"translations" : "Date time pattern"
+	},
+	{
+		"id" : "862adab2-2de5-4bb0-ac41-efdb94145100",
+		"parent_id" : null,
+		"format" : "Dias",
+		"code" : "03",
+		"translations" : "Days"
+	},
+	{
+		"id" : "8c52d60c-98fa-4dfe-bbf2-3b5849e8f0a0",
+		"parent_id" : null,
+		"format" : "Meses",
+		"code" : "04",
+		"translations" : "Months"
+	},
+	{
+		"id" : "236f5685-f5ed-42a7-9415-b53b744a7d77",
+		"parent_id" : "8fdfb331-d66e-48f3-b903-8f5601393742",
+		"format" : "YYYY-DD-MM",
+		"code" : "2021-24-03",
+		"translations" : ""
+	},
+	{
+		"id" : "45fb4be9-90e4-49d5-8d29-0965deaef931",
+		"parent_id" : "8fdfb331-d66e-48f3-b903-8f5601393742",
+		"format" : "DD-MM-YYYY",
+		"code" : "03-10-2021",
+		"translations" : ""
+	},
+	{
+		"id" : "ba991f90-7359-47e1-92b3-d58060a40bbf",
+		"parent_id" : "8fdfb331-d66e-48f3-b903-8f5601393742",
+		"format" : "YYYY-DD-MM HH:MM:SS",
+		"code" : "2021-24-03 14:50:44",
+		"translations" : ""
+	},
+	{
+		"id" : "c5190172-940f-4027-9bed-de2262ceed7f",
+		"parent_id" : "8fdfb331-d66e-48f3-b903-8f5601393742",
+		"format" : "YYYY-DD-MM HH:MM:SS am\/pm",
+		"code" : "2021-24-03 02:50:44 PM",
+		"translations" : ""
+	},
+	{
+		"id" : "82fb4862-6cde-459f-9059-fd782a4f55aa",
+		"parent_id" : "8fdfb331-d66e-48f3-b903-8f5601393742",
+		"format" : "DD-MM-YYYY HH:MM:SS",
+		"code" : "24-03-2021 14:50:44",
+		"translations" : ""
+	},
+	{
+		"id" : "2f8fd71d-84b2-400c-8ba4-66c0d8894cee",
+		"parent_id" : "8fdfb331-d66e-48f3-b903-8f5601393742",
+		"format" : "MM-DD-YYYY HH:MM:SS",
+		"code" : "03-24-2021 14:50:44",
+		"translations" : ""
+	},
+	{
+		"id" : "6fd3748b-4b86-44b2-85e9-74d6913b35bc",
+		"parent_id" : "2a104ccd-9427-490d-80b5-df418f2e0352",
+		"format" : "12H",
+		"code" : "AM\/PM",
+		"translations" : "AM\/PM"
+	},
+	{
+		"id" : "9ae5b3db-a506-46a7-adb1-ece35a2db5ca",
+		"parent_id" : "2a104ccd-9427-490d-80b5-df418f2e0352",
+		"format" : "24H",
+		"code" : "24H",
+		"translations" : "24H"
+	},
+	{
+		"id" : "38a9b7b9-2434-4a80-bb70-5a96cf605b65",
+		"parent_id" : "862adab2-2de5-4bb0-ac41-efdb94145100",
+		"format" : "Lunes",
+		"code" : "L",
+		"translations" : "Monday"
+	},
+	{
+		"id" : "e7a6e9ab-b53f-4b0a-be40-daaaa28c453a",
+		"parent_id" : "862adab2-2de5-4bb0-ac41-efdb94145100",
+		"format" : "Martes",
+		"code" : "M",
+		"translations" : "Tuesday"
+	},
+	{
+		"id" : "1657639a-9d91-48ab-bfde-bc9ee9accd9d",
+		"parent_id" : "862adab2-2de5-4bb0-ac41-efdb94145100",
+		"format" : "Miercoles",
+		"code" : "M",
+		"translations" : "Wendnesday"
+	},
+	{
+		"id" : "291c581d-84a7-4862-8a22-8fd60f362f59",
+		"parent_id" : "862adab2-2de5-4bb0-ac41-efdb94145100",
+		"format" : "Jueves",
+		"code" : "J",
+		"translations" : "Thursday"
+	},
+	{
+		"id" : "de382274-05da-4c8c-bcf1-26ab6b9e1dbf",
+		"parent_id" : "862adab2-2de5-4bb0-ac41-efdb94145100",
+		"format" : "Viernes",
+		"code" : "V",
+		"translations" : "Friday"
+	},
+	{
+		"id" : "8182aaee-b456-4ac3-956a-e61e50b2da21",
+		"parent_id" : "862adab2-2de5-4bb0-ac41-efdb94145100",
+		"format" : "Sabado",
+		"code" : "S",
+		"translations" : "Saturday"
+	},
+	{
+		"id" : "e60532d7-1973-4efb-9bb9-f0a099ae8c8b",
+		"parent_id" : "862adab2-2de5-4bb0-ac41-efdb94145100",
+		"format" : "Domingo",
+		"code" : "D",
+		"translations" : "Sunday"
+	},
+	{
+		"id" : "96e9ad76-c3a9-4d65-bcb0-f41210c2425e",
+		"parent_id" : "8c52d60c-98fa-4dfe-bbf2-3b5849e8f0a0",
+		"format" : "Enero",
+		"code" : "Ene",
+		"translations" : "January"
+	},
+	{
+		"id" : "4f58d240-329a-4f87-a9f3-9bc0a5639389",
+		"parent_id" : "8c52d60c-98fa-4dfe-bbf2-3b5849e8f0a0",
+		"format" : "Febrero",
+		"code" : "Feb",
+		"translations" : "February"
+	},
+	{
+		"id" : "a7e4f215-1c2f-40d5-8939-b126800776f5",
+		"parent_id" : "8c52d60c-98fa-4dfe-bbf2-3b5849e8f0a0",
+		"format" : "Marzo",
+		"code" : "Mar",
+		"translations" : "March"
+	},
+	{
+		"id" : "42c129bd-397f-4848-b7c2-2df2ace596df",
+		"parent_id" : "8c52d60c-98fa-4dfe-bbf2-3b5849e8f0a0",
+		"format" : "Abril",
+		"code" : "Abr",
+		"translations" : "April"
+	},
+	{
+		"id" : "42f3f014-4c20-4b3f-9236-36a6c27f3411",
+		"parent_id" : "8c52d60c-98fa-4dfe-bbf2-3b5849e8f0a0",
+		"format" : "Mayo",
+		"code" : "May",
+		"translations" : "May"
+	},
+	{
+		"id" : "c3911374-8def-4016-9e41-f8ff521496b9",
+		"parent_id" : "8c52d60c-98fa-4dfe-bbf2-3b5849e8f0a0",
+		"format" : "Junio",
+		"code" : "Jun",
+		"translations" : "June"
+	},
+	{
+		"id" : "0a857705-05e0-4aa9-81b3-407421b4caf6",
+		"parent_id" : "8c52d60c-98fa-4dfe-bbf2-3b5849e8f0a0",
+		"format" : "Julio",
+		"code" : "Jul",
+		"translations" : "July"
+	},
+	{
+		"id" : "6bb9bca9-8537-4946-8f39-ad878ae50eaf",
+		"parent_id" : "8c52d60c-98fa-4dfe-bbf2-3b5849e8f0a0",
+		"format" : "Agosto",
+		"code" : "Agos",
+		"translations" : "Augost"
+	},
+	{
+		"id" : "e6a2c559-8686-44be-871f-d687ac2c3c89",
+		"parent_id" : "8c52d60c-98fa-4dfe-bbf2-3b5849e8f0a0",
+		"format" : "Septiembre",
+		"code" : "Sept",
+		"translations" : "September"
+	},
+	{
+		"id" : "c8bb3b5a-fd5e-4e0c-a613-0d42607af7da",
+		"parent_id" : "8c52d60c-98fa-4dfe-bbf2-3b5849e8f0a0",
+		"format" : "Octubre",
+		"code" : "Oct",
+		"translations" : "October"
+	},
+	{
+		"id" : "0266e8dc-7625-497c-b8c3-ad2a268ba036",
+		"parent_id" : "8c52d60c-98fa-4dfe-bbf2-3b5849e8f0a0",
+		"format" : "Noviembre",
+		"code" : "Nov",
+		"translations" : "November"
+	},
+	{
+		"id" : "28e95126-bd73-445b-b37a-16e549933b38",
+		"parent_id" : "8c52d60c-98fa-4dfe-bbf2-3b5849e8f0a0",
+		"format" : "Diciembre",
+		"code" : "Dic",
+		"translations" : "Dicember"
+	}
+]}

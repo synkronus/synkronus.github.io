@@ -1,0 +1,33 @@
+{
+"mstr_type_identification": [
+	{
+		"id" : 1,
+		"code" : "CC",
+		"name" : "Cedula Ciudadania"
+	},
+	{
+		"id" : 2,
+		"code" : "CE",
+		"name" : "Cédula Extranjería"
+	},
+	{
+		"id" : 3,
+		"code" : "TI",
+		"name" : "Tarjeta Identidad"
+	},
+	{
+		"id" : 4,
+		"code" : "Nit",
+		"name" : "Numero Único Tributario"
+	},
+	{
+		"id" : 5,
+		"code" : "PS",
+		"name" : "Pasaporte"
+	},
+	{
+		"id" : 6,
+		"code" : "VA",
+		"name" : "Visa"
+	}
+]}

@@ -1,0 +1,1739 @@
+{
+"dtref_industry_segment": [
+	{
+		"id" : "734c2c74-775c-45c8-912a-c974ce3b8caa",
+		"parent_id" : null,
+		"name" : "Agropecuario",
+		"code" : "101",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "4ba280cd-011c-46f3-91e9-fb320cd4e331",
+		"parent_id" : null,
+		"name" : "Alimentos",
+		"code" : "102",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "b7ca90b5-1044-488d-9871-c758c41e6bcb",
+		"parent_id" : null,
+		"name" : "Asegurador",
+		"code" : "103",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "cefc0730-9396-4f1f-809b-588972076157",
+		"parent_id" : null,
+		"name" : "Bebidas y tabaco",
+		"code" : "104",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "38a9b150-ecad-48af-b189-5b469bcc91a4",
+		"parent_id" : null,
+		"name" : "Comercio al por menor - retail",
+		"code" : "105",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "5f84afda-8fdd-4184-9d91-1b558fddf047",
+		"parent_id" : null,
+		"name" : "Construcción",
+		"code" : "106",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "b90b1078-854f-4b18-a9b6-a05c4879362e",
+		"parent_id" : null,
+		"name" : "Consultorías \/ Asesorías",
+		"code" : "107",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "eb4f1be7-4157-4522-8224-34f13f5fbc7f",
+		"parent_id" : null,
+		"name" : "Cuero y calzado",
+		"code" : "108",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "ebd57e85-ba66-4621-94e4-b1422bd7f7ed",
+		"parent_id" : null,
+		"name" : "Editorial e impresión",
+		"code" : "109",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "3c512600-9c32-47c4-8b84-43968bc5955c",
+		"parent_id" : null,
+		"name" : "Educativo",
+		"code" : "110",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "8e644f36-4a94-49e1-9fc0-2ac994bbe4f1",
+		"parent_id" : null,
+		"name" : "Energético",
+		"code" : "111",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "58ad9c0d-88b4-4cd5-bd64-c8bac517603b",
+		"parent_id" : null,
+		"name" : "Entretenimiento",
+		"code" : "112",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "65b31e3f-3b06-41f5-97fe-621c4ed01ef0",
+		"parent_id" : null,
+		"name" : "Estatal y relacionados",
+		"code" : "113",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "7b739acf-3c6e-4147-b488-d6e931b66662",
+		"parent_id" : null,
+		"name" : "Financiero",
+		"code" : "114",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "f9b45c13-4965-457e-b138-cf380523f0b9",
+		"parent_id" : null,
+		"name" : "Manufactura",
+		"code" : "115",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "e3443554-a7cc-4f90-9b72-9f235e20a3bf",
+		"parent_id" : null,
+		"name" : "Medios",
+		"code" : "116",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "4c61d909-cab3-4802-b6e8-f7cd198667ab",
+		"parent_id" : null,
+		"name" : "Minería, hierro, acero y otros materiales",
+		"code" : "117",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "58539a88-b0d0-4756-b78c-6ce31c421031",
+		"parent_id" : null,
+		"name" : "Plástico y caucho",
+		"code" : "118",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "4623f125-b66b-48f2-aaaa-fe7c9516b82d",
+		"parent_id" : null,
+		"name" : "Productos de vidrio",
+		"code" : "119",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "0c8a2f7b-ed44-4103-b2cf-86ea135de07d",
+		"parent_id" : null,
+		"name" : "Publicidad y mercadeo",
+		"code" : "120",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "12b88416-4a2a-436b-ac4b-e47084460622",
+		"parent_id" : null,
+		"name" : "Pulpa, papel y cartón",
+		"code" : "121",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "299b66a8-e177-40f7-8749-30f09532eeb4",
+		"parent_id" : null,
+		"name" : "Químicos",
+		"code" : "122",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "32720d27-3e4a-48fd-a45d-107b952f75dd",
+		"parent_id" : null,
+		"name" : "Salud",
+		"code" : "123",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "d823a278-0d63-4da0-8f47-dbc2da62288d",
+		"parent_id" : null,
+		"name" : "Servicios",
+		"code" : "124",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "f4742239-9d40-437b-b237-eb5d50d1d93c",
+		"parent_id" : null,
+		"name" : "Tecnología",
+		"code" : "125",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "7794c39a-f841-429f-8930-cddfc6a0504b",
+		"parent_id" : null,
+		"name" : "Telecomunicaciones",
+		"code" : "126",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "4beee913-549e-4af3-81a0-f1fc16757ef5",
+		"parent_id" : null,
+		"name" : "Textiles, prendas de vestir y calzado",
+		"code" : "127",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "6768ee00-838f-4647-aef2-081fb20e6ea3",
+		"parent_id" : null,
+		"name" : "Transporte",
+		"code" : "128",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "17946f39-67d3-402a-b9b8-dbf69daed06c",
+		"parent_id" : null,
+		"name" : "Vehículos y partes",
+		"code" : "129",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "37789bd4-4e85-4181-8b4b-cf33cfa65a05",
+		"parent_id" : null,
+		"name" : "Consumo masivo",
+		"code" : "130",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "59758b7d-9f84-48bb-a675-5ac15d322077",
+		"parent_id" : null,
+		"name" : "Naval",
+		"code" : "131",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "43253ac3-0687-46dd-a80a-21bc0a238349",
+		"parent_id" : null,
+		"name" : "Organizaciones No Gubernamentales",
+		"code" : "132",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "1c30d78f-8a1e-40dd-8e82-c8080153f947",
+		"parent_id" : null,
+		"name" : "Otros",
+		"code" : "133",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "4330baa2-b850-4f75-a38e-9f5bd4225215",
+		"parent_id" : "734c2c74-775c-45c8-912a-c974ce3b8caa",
+		"name" : "Agricultura varios",
+		"code" : "1001",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "81418341-8abf-4952-953e-754b0e6162ba",
+		"parent_id" : "734c2c74-775c-45c8-912a-c974ce3b8caa",
+		"name" : "Avícola",
+		"code" : "1002",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "6efbb06d-00da-449d-93b3-6eb85f0ca099",
+		"parent_id" : "734c2c74-775c-45c8-912a-c974ce3b8caa",
+		"name" : "Café producción",
+		"code" : "1003",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "43a51def-e510-45cc-815a-af871f30782c",
+		"parent_id" : "734c2c74-775c-45c8-912a-c974ce3b8caa",
+		"name" : "Distribución de productos e insumos agropecuarios",
+		"code" : "1004",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "06f7364a-5c80-44cc-adb7-44ac142c2d76",
+		"parent_id" : "734c2c74-775c-45c8-912a-c974ce3b8caa",
+		"name" : "Flores",
+		"code" : "1005",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "26ff2bbd-7092-4c90-9777-1aafe20bba1f",
+		"parent_id" : "734c2c74-775c-45c8-912a-c974ce3b8caa",
+		"name" : "Ganadería",
+		"code" : "1006",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "d6d1e9d6-de58-4800-a84a-98798a95d24a",
+		"parent_id" : "734c2c74-775c-45c8-912a-c974ce3b8caa",
+		"name" : "Palmero",
+		"code" : "1007",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "743b8e4e-ca99-4f1b-8aa0-7f6d586044d6",
+		"parent_id" : "734c2c74-775c-45c8-912a-c974ce3b8caa",
+		"name" : "Pesca",
+		"code" : "1008",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "f27be56d-027d-437d-8ca2-bc200e4a2604",
+		"parent_id" : "4ba280cd-011c-46f3-91e9-fb320cd4e331",
+		"name" : "Aceites y grasas comestibles",
+		"code" : "1009",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "4d706d72-fc6b-4ee0-a150-530e03655167",
+		"parent_id" : "4ba280cd-011c-46f3-91e9-fb320cd4e331",
+		"name" : "Alimentos para animales",
+		"code" : "1010",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "2231cb49-e15c-4ce2-9d01-8fab419ca492",
+		"parent_id" : "4ba280cd-011c-46f3-91e9-fb320cd4e331",
+		"name" : "Azúcar",
+		"code" : "1011",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "6adc3386-c6be-46dc-b8e5-54a16e60d43b",
+		"parent_id" : "4ba280cd-011c-46f3-91e9-fb320cd4e331",
+		"name" : "Café exportadores",
+		"code" : "1012",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "c35ad121-ae78-4b3a-bf4d-77b518328399",
+		"parent_id" : "4ba280cd-011c-46f3-91e9-fb320cd4e331",
+		"name" : "Chocolate y confitería",
+		"code" : "1013",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "9a6ef943-50e2-4cc9-bbf6-643a66e9cb30",
+		"parent_id" : "4ba280cd-011c-46f3-91e9-fb320cd4e331",
+		"name" : "Conservas, pasabocas y condimentos",
+		"code" : "1014",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "e9b734a2-ad89-4f01-abe3-d6227b5bef8f",
+		"parent_id" : "4ba280cd-011c-46f3-91e9-fb320cd4e331",
+		"name" : "Distribución \/ Consumo masivo de alimentos",
+		"code" : "1015",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "780b2982-38c8-435a-99ca-6570b39af84e",
+		"parent_id" : "4ba280cd-011c-46f3-91e9-fb320cd4e331",
+		"name" : "Lácteos",
+		"code" : "1016",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "b5d83d1f-58d0-4484-b0a7-ac96e373f222",
+		"parent_id" : "4ba280cd-011c-46f3-91e9-fb320cd4e331",
+		"name" : "Molinería de arroz",
+		"code" : "1017",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "45a8ae48-befa-48c4-a433-fbda199d444d",
+		"parent_id" : "4ba280cd-011c-46f3-91e9-fb320cd4e331",
+		"name" : "Molinería y productos de trigo y maíz",
+		"code" : "1018",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "a7898b15-089f-41f1-a1b3-3231e9d82ac2",
+		"parent_id" : "4ba280cd-011c-46f3-91e9-fb320cd4e331",
+		"name" : "Pastas, panadería y galletería",
+		"code" : "1019",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "cda8829b-9212-4038-958d-79f5e2543ddc",
+		"parent_id" : "4ba280cd-011c-46f3-91e9-fb320cd4e331",
+		"name" : "Productos cárnicos",
+		"code" : "1020",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "407f8a57-7aab-46e7-a855-ffe0a8365a19",
+		"parent_id" : "b7ca90b5-1044-488d-9871-c758c41e6bcb",
+		"name" : "Ajustadores de seguros",
+		"code" : "1021",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "97dbc21b-900f-4902-9a48-0726a7e5aba4",
+		"parent_id" : "b7ca90b5-1044-488d-9871-c758c41e6bcb",
+		"name" : "Compañías de seguros",
+		"code" : "1022",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "1979dab9-72c5-4162-840a-e450320bec77",
+		"parent_id" : "b7ca90b5-1044-488d-9871-c758c41e6bcb",
+		"name" : "Corredores de seguros",
+		"code" : "1023",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "ee72f270-43bc-4db0-9bee-4e07eb0251e4",
+		"parent_id" : "b7ca90b5-1044-488d-9871-c758c41e6bcb",
+		"name" : "Reaseguradores",
+		"code" : "1024",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "77cda879-3025-427b-94c4-1bef86947c5f",
+		"parent_id" : "cefc0730-9396-4f1f-809b-588972076157",
+		"name" : "Cerveza",
+		"code" : "1025",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "682fc835-edb2-4598-b76d-10c02a868a15",
+		"parent_id" : "cefc0730-9396-4f1f-809b-588972076157",
+		"name" : "Distribución \/ Consumo masivo de bebidas y tabaco",
+		"code" : "1026",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "8a6fb86e-c9e4-4710-b3ed-6079094e0026",
+		"parent_id" : "cefc0730-9396-4f1f-809b-588972076157",
+		"name" : "Gaseosas, jugos y aguas",
+		"code" : "1026",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "48bb5a3f-c0c3-41b3-b0cc-5876769c6c9d",
+		"parent_id" : "cefc0730-9396-4f1f-809b-588972076157",
+		"name" : "Licores",
+		"code" : "1027",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "4b0eacb8-a033-453f-9052-68afe547a9d9",
+		"parent_id" : "cefc0730-9396-4f1f-809b-588972076157",
+		"name" : "Tabaco",
+		"code" : "1028",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "29bc52b8-e227-4353-a75a-235d30fe5016",
+		"parent_id" : "38a9b150-ecad-48af-b189-5b469bcc91a4",
+		"name" : "Consumo masivo",
+		"code" : "1029",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "07055fd8-49e3-4577-9b86-fb07552fff5a",
+		"parent_id" : "5f84afda-8fdd-4184-9d91-1b558fddf047",
+		"name" : "Acondicionamiento y terminación de edificios",
+		"code" : "1030",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "a5a17151-86c6-4e3d-b062-a6add181cb3c",
+		"parent_id" : "5f84afda-8fdd-4184-9d91-1b558fddf047",
+		"name" : "Cemento",
+		"code" : "1031",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "efdd71c0-755e-4ead-a5cb-e3942788601c",
+		"parent_id" : "5f84afda-8fdd-4184-9d91-1b558fddf047",
+		"name" : "Cerámica y otros materiales no metálicos",
+		"code" : "1032",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "fa45dfb7-0078-4b19-8d63-f3b501800f46",
+		"parent_id" : "5f84afda-8fdd-4184-9d91-1b558fddf047",
+		"name" : "Construcción",
+		"code" : "1033",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "ac050fac-4c3d-4a61-9518-ac6dba075a48",
+		"parent_id" : "5f84afda-8fdd-4184-9d91-1b558fddf047",
+		"name" : "Distribución de materiales de construcción y ferretería",
+		"code" : "1034",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "9cb88d6f-3303-48a7-a288-1eca3daca457",
+		"parent_id" : "5f84afda-8fdd-4184-9d91-1b558fddf047",
+		"name" : "Infraestructura",
+		"code" : "1135",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "ff4d5e7a-fa60-4092-843a-892c4f809b11",
+		"parent_id" : "5f84afda-8fdd-4184-9d91-1b558fddf047",
+		"name" : "Infraestructura vial",
+		"code" : "1136",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "31b720d5-04d1-4f5c-9c28-b9983d2068e6",
+		"parent_id" : "5f84afda-8fdd-4184-9d91-1b558fddf047",
+		"name" : "Ingeniería civil",
+		"code" : "1037",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "989a04f7-2b2b-4ea9-94af-f4d5fd23a9a8",
+		"parent_id" : "5f84afda-8fdd-4184-9d91-1b558fddf047",
+		"name" : "Preparación de terreno",
+		"code" : "1038",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "b25b9fe5-74e3-45b6-b44f-4e8527adc962",
+		"parent_id" : "5f84afda-8fdd-4184-9d91-1b558fddf047",
+		"name" : "Vivienda – Inmobiliaria",
+		"code" : "1139",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "cddfe076-1a03-4f8d-a525-47a6944a76eb",
+		"parent_id" : "b90b1078-854f-4b18-a9b6-a05c4879362e",
+		"name" : "Consultoría contable \/ Revisoría fiscal",
+		"code" : "1040",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "d115f12a-3ba4-48a8-8836-d78cf4f43959",
+		"parent_id" : "b90b1078-854f-4b18-a9b6-a05c4879362e",
+		"name" : "Consultoría en recursos humanos",
+		"code" : "1041",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "d673238e-ac61-45dc-89d2-2aaf23e331c9",
+		"parent_id" : "b90b1078-854f-4b18-a9b6-a05c4879362e",
+		"name" : "Firmas de abogados",
+		"code" : "1042",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "98bef872-f367-4562-b0a5-b85c11703e71",
+		"parent_id" : "b90b1078-854f-4b18-a9b6-a05c4879362e",
+		"name" : "Firmas de consultoría empresarial",
+		"code" : "1043",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "5c547a40-5521-4d72-a7b2-9a369c2e3aa4",
+		"parent_id" : "b90b1078-854f-4b18-a9b6-a05c4879362e",
+		"name" : "Temporales \/ Dotación de personal",
+		"code" : "1044",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "b1d98c79-13f4-4768-962a-62edab910443",
+		"parent_id" : "eb4f1be7-4157-4522-8224-34f13f5fbc7f",
+		"name" : "Cuero y calzado",
+		"code" : "1045",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "93460f48-dfbf-4adb-812a-8c4b757352bc",
+		"parent_id" : "ebd57e85-ba66-4621-94e4-b1422bd7f7ed",
+		"name" : "Impresión editorial",
+		"code" : "1046",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "55431c6f-0230-43de-a766-9ac561133569",
+		"parent_id" : "ebd57e85-ba66-4621-94e4-b1422bd7f7ed",
+		"name" : "Libros, folletos y similares",
+		"code" : "1047",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "45308b5e-ccaa-4dc8-92cc-e48ededcbc62",
+		"parent_id" : "3c512600-9c32-47c4-8b84-43968bc5955c",
+		"name" : "Colegios",
+		"code" : "1048",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "beac9e9a-97ff-42af-a554-b79478685a90",
+		"parent_id" : "3c512600-9c32-47c4-8b84-43968bc5955c",
+		"name" : "Compañias de capacitación continuada",
+		"code" : "1049",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "75453535-15f1-4734-b9b2-6f32374d2be9",
+		"parent_id" : "3c512600-9c32-47c4-8b84-43968bc5955c",
+		"name" : "Institutos técnicos",
+		"code" : "1050",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "0d94bc88-93bf-4784-a369-2ad94d45ad40",
+		"parent_id" : "3c512600-9c32-47c4-8b84-43968bc5955c",
+		"name" : "Universidades",
+		"code" : "1051",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "808738e2-67c6-4941-81d3-ff421cdfa05b",
+		"parent_id" : "8e644f36-4a94-49e1-9fc0-2ac994bbe4f1",
+		"name" : "Compañias petroleras",
+		"code" : "1052",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "66aa15ab-d194-498b-9c6d-737c98831195",
+		"parent_id" : "8e644f36-4a94-49e1-9fc0-2ac994bbe4f1",
+		"name" : "Distribución de combustibles",
+		"code" : "1053",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "fb0723af-9024-48b9-9efe-2e9c809125aa",
+		"parent_id" : "8e644f36-4a94-49e1-9fc0-2ac994bbe4f1",
+		"name" : "Energía eléctrica",
+		"code" : "1054",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "2a3d423b-d757-4fcb-8c49-b0f9aeb2bbba",
+		"parent_id" : "8e644f36-4a94-49e1-9fc0-2ac994bbe4f1",
+		"name" : "Explotación de carbón",
+		"code" : "1055",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "67e77d10-a99c-4ee2-892a-534d2c472ac8",
+		"parent_id" : "8e644f36-4a94-49e1-9fc0-2ac994bbe4f1",
+		"name" : "Gas",
+		"code" : "1056",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "fbba30a5-9362-40ee-ae7b-4919225ca591",
+		"parent_id" : "8e644f36-4a94-49e1-9fc0-2ac994bbe4f1",
+		"name" : "Otros (Energético)",
+		"code" : "1057",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "d770915b-463e-4627-a3ea-1c2f5bcaed00",
+		"parent_id" : "8e644f36-4a94-49e1-9fc0-2ac994bbe4f1",
+		"name" : "Servicios petroleros",
+		"code" : "1058",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "247f9680-066c-4f9d-914d-1c36ed3f9153",
+		"parent_id" : "58ad9c0d-88b4-4cd5-bd64-c8bac517603b",
+		"name" : "Cine y video",
+		"code" : "1059",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "e5c1d59e-767b-4469-99bc-ffdfc71865bd",
+		"parent_id" : "58ad9c0d-88b4-4cd5-bd64-c8bac517603b",
+		"name" : "Otros Entretenimiento",
+		"code" : "1060",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "41d891f5-4ab2-4564-b44b-a43fd10b9c66",
+		"parent_id" : "58ad9c0d-88b4-4cd5-bd64-c8bac517603b",
+		"name" : "Parques de diversiones",
+		"code" : "1061",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "1d4a8bc6-659e-4eb7-b763-25eb1785c8e1",
+		"parent_id" : "58ad9c0d-88b4-4cd5-bd64-c8bac517603b",
+		"name" : "Producción y grabación musical",
+		"code" : "1062",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "fc41adf1-0014-41eb-8bfb-9698776675b7",
+		"parent_id" : "65b31e3f-3b06-41f5-97fe-621c4ed01ef0",
+		"name" : "Agricultura y desarrollo rural",
+		"code" : "1063",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "7ac8d4d2-8c4a-4324-acbf-620bed7f484a",
+		"parent_id" : "65b31e3f-3b06-41f5-97fe-621c4ed01ef0",
+		"name" : "Ciencia y tecnología",
+		"code" : "1064",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "1d64c200-4cb5-43bc-824c-a81c6673b173",
+		"parent_id" : "65b31e3f-3b06-41f5-97fe-621c4ed01ef0",
+		"name" : "Comercio exterior",
+		"code" : "1065",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "efb52dd1-56ca-45cb-8311-c900c15e507a",
+		"parent_id" : "65b31e3f-3b06-41f5-97fe-621c4ed01ef0",
+		"name" : "Comunicaciones",
+		"code" : "1066",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "d6f73557-08b5-4082-86bb-808e146076fd",
+		"parent_id" : "65b31e3f-3b06-41f5-97fe-621c4ed01ef0",
+		"name" : "Defensa y seguridad nacional",
+		"code" : "1067",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "346f110b-fbc7-4b4a-9639-14cc47c414f9",
+		"parent_id" : "65b31e3f-3b06-41f5-97fe-621c4ed01ef0",
+		"name" : "Economía y desarrollo económico",
+		"code" : "1068",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "9b8406cb-23bf-4137-9fd6-aa351eb34aec",
+		"parent_id" : "65b31e3f-3b06-41f5-97fe-621c4ed01ef0",
+		"name" : "Educación, cultura y turismo",
+		"code" : "1069",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "bf23a70d-e2bc-42e4-b1a7-2df18dadfb20",
+		"parent_id" : "65b31e3f-3b06-41f5-97fe-621c4ed01ef0",
+		"name" : "Estadística",
+		"code" : "1070",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "03cd2440-0df6-4cd2-a818-9f7c6cd25c07",
+		"parent_id" : "65b31e3f-3b06-41f5-97fe-621c4ed01ef0",
+		"name" : "Función pública",
+		"code" : "1071",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "e43a390f-061c-468d-9666-ddc8438e6ab3",
+		"parent_id" : "65b31e3f-3b06-41f5-97fe-621c4ed01ef0",
+		"name" : "Gremios y asociaciones",
+		"code" : "1072",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "125df706-483c-4b13-8397-bfed072179a7",
+		"parent_id" : "65b31e3f-3b06-41f5-97fe-621c4ed01ef0",
+		"name" : "Interior, control y organizacion electoral",
+		"code" : "1073",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "4125de60-06bb-4073-8518-ec7e24b9906a",
+		"parent_id" : "65b31e3f-3b06-41f5-97fe-621c4ed01ef0",
+		"name" : "Justicia y derecho",
+		"code" : "1074",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "35adef33-309c-4b6e-ad78-26aea33e0414",
+		"parent_id" : "65b31e3f-3b06-41f5-97fe-621c4ed01ef0",
+		"name" : "Medio ambiente",
+		"code" : "1075",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "e84a7bdb-1878-4e64-95b0-d45ff3e423ae",
+		"parent_id" : "65b31e3f-3b06-41f5-97fe-621c4ed01ef0",
+		"name" : "Minas y energía",
+		"code" : "1076",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "29212206-4302-45ba-8cf0-4369728fcc2b",
+		"parent_id" : "65b31e3f-3b06-41f5-97fe-621c4ed01ef0",
+		"name" : "Organizaciones no gubernamentales (Ong)",
+		"code" : "1077",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "078174e5-95d6-4649-9b23-eae1737b11fa",
+		"parent_id" : "65b31e3f-3b06-41f5-97fe-621c4ed01ef0",
+		"name" : "Planeación",
+		"code" : "1078",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "f75841ea-48ad-4cbd-aa07-d36fcde402c3",
+		"parent_id" : "65b31e3f-3b06-41f5-97fe-621c4ed01ef0",
+		"name" : "Presidencia, gobernaciones y alcaldías",
+		"code" : "1079",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "a280dd81-f527-4b03-bc9f-5b24b624bad5",
+		"parent_id" : "65b31e3f-3b06-41f5-97fe-621c4ed01ef0",
+		"name" : "Relaciones exteriores",
+		"code" : "1080",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "4757af8e-bdf5-4365-8dc7-fcb6d3ced8d0",
+		"parent_id" : "65b31e3f-3b06-41f5-97fe-621c4ed01ef0",
+		"name" : "Salud, trabajo y seguridad social",
+		"code" : "1081",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "9e686d5f-1381-49aa-b352-7a942c45f12d",
+		"parent_id" : "65b31e3f-3b06-41f5-97fe-621c4ed01ef0",
+		"name" : "Servicios públicos",
+		"code" : "1082",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "6b66660c-5c43-4d5d-a916-8a55fb669eea",
+		"parent_id" : "65b31e3f-3b06-41f5-97fe-621c4ed01ef0",
+		"name" : "Transporte",
+		"code" : "1083",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "43b8ca82-db31-4d64-a722-00b94cbc2fbd",
+		"parent_id" : "7b739acf-3c6e-4147-b488-d6e931b66662",
+		"name" : "Banca",
+		"code" : "1084",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "f4a4092c-9700-4ac2-a465-4f981acd461d",
+		"parent_id" : "7b739acf-3c6e-4147-b488-d6e931b66662",
+		"name" : "Cajeros electrónicos",
+		"code" : "1085",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "ff0f7c40-69f5-4457-aca0-e5fcb2872b2e",
+		"parent_id" : "7b739acf-3c6e-4147-b488-d6e931b66662",
+		"name" : "Compañías de financiamiento",
+		"code" : "1086",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "d9c78a4b-2fd7-4ffa-8488-8c1315539aaa",
+		"parent_id" : "7b739acf-3c6e-4147-b488-d6e931b66662",
+		"name" : "Compañias de leasing",
+		"code" : "1087",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "5e1aa6cb-f5c0-4c9f-baee-ce5ff8adeeaa",
+		"parent_id" : "7b739acf-3c6e-4147-b488-d6e931b66662",
+		"name" : "Corporaciones de ahorro y vivienda",
+		"code" : "1088",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "d7ca2110-0b15-479b-b87b-770f837d8b79",
+		"parent_id" : "7b739acf-3c6e-4147-b488-d6e931b66662",
+		"name" : "Corredores de bolsa",
+		"code" : "1089",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "65edfff4-fb7d-4d3b-b20c-e113e2932beb",
+		"parent_id" : "7b739acf-3c6e-4147-b488-d6e931b66662",
+		"name" : "Fiduciaria",
+		"code" : "1090",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "61bdb9ce-5058-406b-b7ca-7f897cfa330c",
+		"parent_id" : "7b739acf-3c6e-4147-b488-d6e931b66662",
+		"name" : "Fondos de pensiones",
+		"code" : "1091",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "ff9e0969-a5bd-41fc-a417-8f9094463404",
+		"parent_id" : "7b739acf-3c6e-4147-b488-d6e931b66662",
+		"name" : "Servicios financieros",
+		"code" : "1092",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "d64d8a88-f736-4863-9447-2d8c37e1dce0",
+		"parent_id" : "7b739acf-3c6e-4147-b488-d6e931b66662",
+		"name" : "Tarjetas de crédito",
+		"code" : "1093",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "6e91881f-b8f3-402e-a0d7-2bdd6b7f807b",
+		"parent_id" : "f9b45c13-4965-457e-b138-cf380523f0b9",
+		"name" : "Distribución de enseres domésticos",
+		"code" : "1094",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "9a662588-74b3-4fae-8833-ae1226d0b793",
+		"parent_id" : "f9b45c13-4965-457e-b138-cf380523f0b9",
+		"name" : "Distribución de maquinaría y equipo",
+		"code" : "1095",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "f0a61b4a-6bbe-4e4e-bdb0-8069f782be6e",
+		"parent_id" : "f9b45c13-4965-457e-b138-cf380523f0b9",
+		"name" : "Electrodomésticos",
+		"code" : "1096",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "203555d2-be51-4a7e-85fe-360e13c90d17",
+		"parent_id" : "f9b45c13-4965-457e-b138-cf380523f0b9",
+		"name" : "Manufacturas varias",
+		"code" : "1097",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "e1ad9bd6-0b81-4685-940b-2bf7df3b662c",
+		"parent_id" : "f9b45c13-4965-457e-b138-cf380523f0b9",
+		"name" : "Maquinaría y equipo",
+		"code" : "1098",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "0989b8e8-2380-415a-9ec0-a7a563036f67",
+		"parent_id" : "f9b45c13-4965-457e-b138-cf380523f0b9",
+		"name" : "Muebles y accesorios",
+		"code" : "1099",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "c3324fd8-4739-426b-9d5f-a0f16e54c486",
+		"parent_id" : "f9b45c13-4965-457e-b138-cf380523f0b9",
+		"name" : "Productos de madera",
+		"code" : "1100",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "ca56b828-f3e6-4d8e-81f3-1fb268fd7aa1",
+		"parent_id" : "e3443554-a7cc-4f90-9b72-9f235e20a3bf",
+		"name" : "Internet",
+		"code" : "1101",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "a81b27ac-431d-4ae9-971b-a4734b58144a",
+		"parent_id" : "e3443554-a7cc-4f90-9b72-9f235e20a3bf",
+		"name" : "Periódicos",
+		"code" : "1102",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "c5383672-3aa2-43a2-a37c-8d234ce9845d",
+		"parent_id" : "e3443554-a7cc-4f90-9b72-9f235e20a3bf",
+		"name" : "Radio",
+		"code" : "1103",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "d5753914-1cdd-43f1-85c8-da72fc7b8f0e",
+		"parent_id" : "e3443554-a7cc-4f90-9b72-9f235e20a3bf",
+		"name" : "Revistas",
+		"code" : "1104",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "91ea274f-596b-4735-bd24-8bc68efe58e1",
+		"parent_id" : "e3443554-a7cc-4f90-9b72-9f235e20a3bf",
+		"name" : "Televisión",
+		"code" : "1105",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "0c6e0b20-ca47-4925-9570-d68499e46b1d",
+		"parent_id" : "4c61d909-cab3-4802-b6e8-f7cd198667ab",
+		"name" : "Metales básicos, hierro, acero y otros",
+		"code" : "1113",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "276b941e-e795-4c13-8e67-42fc59af32c6",
+		"parent_id" : "4c61d909-cab3-4802-b6e8-f7cd198667ab",
+		"name" : "Metales no ferrosos",
+		"code" : "1106",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "fa019b1a-d75f-48ac-85d3-6e248ee2f184",
+		"parent_id" : "4c61d909-cab3-4802-b6e8-f7cd198667ab",
+		"name" : "Productos de metal",
+		"code" : "1107",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "12a88fad-99f5-4990-bf10-3beb4c472a25",
+		"parent_id" : "4c61d909-cab3-4802-b6e8-f7cd198667ab",
+		"name" : "Siderurgia",
+		"code" : "1108",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "697b5a0c-0e6b-40bd-9a3d-8813ba81a7ea",
+		"parent_id" : "58539a88-b0d0-4756-b78c-6ce31c421031",
+		"name" : "Plásticos primarios",
+		"code" : "1109",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "a26ca9df-d886-4710-b47c-cd5ad6eb710d",
+		"parent_id" : "58539a88-b0d0-4756-b78c-6ce31c421031",
+		"name" : "Productos de caucho",
+		"code" : "1110",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "a713fa0e-16a5-442d-9038-d47f1ffaf81c",
+		"parent_id" : "58539a88-b0d0-4756-b78c-6ce31c421031",
+		"name" : "Productos de plástico",
+		"code" : "1111",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "d9d025b9-b691-481f-9ed8-bcf9c9296272",
+		"parent_id" : "4623f125-b66b-48f2-aaaa-fe7c9516b82d",
+		"name" : "Envases",
+		"code" : "1112",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "6dfcc53b-e20e-4c2f-b339-88ffe3828112",
+		"parent_id" : "4623f125-b66b-48f2-aaaa-fe7c9516b82d",
+		"name" : "Otros productos de vidrio",
+		"code" : "1113",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "946f8910-fb78-4625-bac3-92e9ff2f5a7e",
+		"parent_id" : "4623f125-b66b-48f2-aaaa-fe7c9516b82d",
+		"name" : "Vidrio - Construcción",
+		"code" : "1114",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "4f3fdb82-683a-4e36-83bb-7b68c5174e58",
+		"parent_id" : "4623f125-b66b-48f2-aaaa-fe7c9516b82d",
+		"name" : "Vidrio - Vehículos",
+		"code" : "1115",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "bcbce4b5-891a-4c4b-bbfd-fa7a2bc8276e",
+		"parent_id" : "0c8a2f7b-ed44-4103-b2cf-86ea135de07d",
+		"name" : "Agencias de publicidad",
+		"code" : "1116",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "24dfb0f8-f401-41f8-9f02-f94176abe2ec",
+		"parent_id" : "0c8a2f7b-ed44-4103-b2cf-86ea135de07d",
+		"name" : "Agencias promocionales",
+		"code" : "1117",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "eda0fe9a-3f38-4858-9c36-f0989c147b21",
+		"parent_id" : "0c8a2f7b-ed44-4103-b2cf-86ea135de07d",
+		"name" : "Brokers de medios",
+		"code" : "1118",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "831058cb-0acf-4fa3-88b0-d9fadb5b7276",
+		"parent_id" : "0c8a2f7b-ed44-4103-b2cf-86ea135de07d",
+		"name" : "Correo directo",
+		"code" : "1119",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "f25cb403-8082-4ad7-8b58-c7de32759bc7",
+		"parent_id" : "0c8a2f7b-ed44-4103-b2cf-86ea135de07d",
+		"name" : "Otros (Publicidad y mercadeo)",
+		"code" : "1120",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "9d6ea85d-198b-4e79-95fc-145870954790",
+		"parent_id" : "0c8a2f7b-ed44-4103-b2cf-86ea135de07d",
+		"name" : "Relaciones públicas",
+		"code" : "1121",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "30000e12-f424-4cfd-b60d-5a4da05339fe",
+		"parent_id" : "12b88416-4a2a-436b-ac4b-e47084460622",
+		"name" : "Papel, celulosa y cartón ondulado",
+		"code" : "1122",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "d1cec0ae-e3c2-4f95-8f47-2e95f937e59c",
+		"parent_id" : "12b88416-4a2a-436b-ac4b-e47084460622",
+		"name" : "Productos de papel y cartón",
+		"code" : "1123",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "a9a03ba8-095c-4e24-8395-2ace34b1d1d8",
+		"parent_id" : "299b66a8-e177-40f7-8749-30f09532eeb4",
+		"name" : "Abonos, plaguicidas y químicos agropecuarios",
+		"code" : "1124",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "b4b9960e-bd52-47cc-b1ef-4f6683fe641d",
+		"parent_id" : "299b66a8-e177-40f7-8749-30f09532eeb4",
+		"name" : "Distribución \/ Consumo masivo de elementos de aseo",
+		"code" : "1125",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "7183f719-67d1-41f6-9d39-61e3d1a295a8",
+		"parent_id" : "299b66a8-e177-40f7-8749-30f09532eeb4",
+		"name" : "Distribución de productos farmacéuticos y otros",
+		"code" : "1126",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "a1a24f82-4445-45ec-8ea0-cd235475be11",
+		"parent_id" : "299b66a8-e177-40f7-8749-30f09532eeb4",
+		"name" : "Laboratorios farmacéuticos y otros",
+		"code" : "1127",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "c9f2c494-1889-4aa0-8613-37287d2ee890",
+		"parent_id" : "299b66a8-e177-40f7-8749-30f09532eeb4",
+		"name" : "Pinturas, barnices y similares",
+		"code" : "1128",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "de52d799-abdd-4688-8af7-8375a850403b",
+		"parent_id" : "299b66a8-e177-40f7-8749-30f09532eeb4",
+		"name" : "Productos de aseo y cosméticos",
+		"code" : "1129",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "f7bc4ec7-c314-42d0-9ee4-a643c1b3bd68",
+		"parent_id" : "299b66a8-e177-40f7-8749-30f09532eeb4",
+		"name" : "Químicos básicos",
+		"code" : "1130",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "955b70b9-8dfc-4eb0-88f7-316e4a60ac3d",
+		"parent_id" : "299b66a8-e177-40f7-8749-30f09532eeb4",
+		"name" : "Químicos industriales y diversos",
+		"code" : "1131",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "e6b06d68-5be3-4425-89ee-02d07390ad99",
+		"parent_id" : "32720d27-3e4a-48fd-a45d-107b952f75dd",
+		"name" : "ARP",
+		"code" : "1122",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "62156257-f13a-4acb-bec9-0936b1bdb2c0",
+		"parent_id" : "32720d27-3e4a-48fd-a45d-107b952f75dd",
+		"name" : "EPS",
+		"code" : "1133",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "d652dd2d-1724-4987-8c32-b6a8acf1007b",
+		"parent_id" : "32720d27-3e4a-48fd-a45d-107b952f75dd",
+		"name" : "IPS",
+		"code" : "1134",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "e9538685-9e7a-4a7a-898c-e231d6de1c11",
+		"parent_id" : "32720d27-3e4a-48fd-a45d-107b952f75dd",
+		"name" : "Medicina prepagada",
+		"code" : "1135",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "de8e2c6f-aac7-48c5-bcc6-053f18a46809",
+		"parent_id" : "32720d27-3e4a-48fd-a45d-107b952f75dd",
+		"name" : "Seguridad social",
+		"code" : "1136",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "023df939-2ac0-46c6-8930-91cee14d12be",
+		"parent_id" : "32720d27-3e4a-48fd-a45d-107b952f75dd",
+		"name" : "Servicios hospitalarios, médicos u odontológicos",
+		"code" : "1137",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "8fbfb005-1383-461a-b780-488a66dcf27b",
+		"parent_id" : "d823a278-0d63-4da0-8f47-dbc2da62288d",
+		"name" : "Alimentos \/ Bebidas",
+		"code" : "1138",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "111809b8-b3af-4969-b96f-ce7c9d3189aa",
+		"parent_id" : "d823a278-0d63-4da0-8f47-dbc2da62288d",
+		"name" : "Almacenes de depósito",
+		"code" : "139",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "90e54cc6-bd5f-48e4-9c06-76bc95cbd4ed",
+		"parent_id" : "d823a278-0d63-4da0-8f47-dbc2da62288d",
+		"name" : "Cajas de compensación",
+		"code" : "1140",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "a72f10f6-a663-40f8-8c6b-7e7ef909d9c5",
+		"parent_id" : "d823a278-0d63-4da0-8f47-dbc2da62288d",
+		"name" : "Clubes",
+		"code" : "1141",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "033dfeb6-47d5-44b3-96db-5c674059f4f4",
+		"parent_id" : "d823a278-0d63-4da0-8f47-dbc2da62288d",
+		"name" : "Cooperativas",
+		"code" : "1142",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "257559ad-84bd-44a2-9315-fadb974e967f",
+		"parent_id" : "d823a278-0d63-4da0-8f47-dbc2da62288d",
+		"name" : "Correo",
+		"code" : "1143",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "c534fa46-0224-4629-a110-2cc6ba919019",
+		"parent_id" : "d823a278-0d63-4da0-8f47-dbc2da62288d",
+		"name" : "Hoteles",
+		"code" : "1144",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "3eb5b8f6-9497-44ab-b406-74f06c6c7f8d",
+		"parent_id" : "d823a278-0d63-4da0-8f47-dbc2da62288d",
+		"name" : "Informáticos",
+		"code" : "1145",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "047039e6-0746-4d19-b7f1-59ecfea62c84",
+		"parent_id" : "d823a278-0d63-4da0-8f47-dbc2da62288d",
+		"name" : "Otros servicios",
+		"code" : "1146",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "1fd2815a-271f-4fd7-b3d2-ffa69b2b7bfc",
+		"parent_id" : "d823a278-0d63-4da0-8f47-dbc2da62288d",
+		"name" : "Restaurantes",
+		"code" : "1147",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "6d514712-f5bb-4fb5-aa33-6175f083daa1",
+		"parent_id" : "d823a278-0d63-4da0-8f47-dbc2da62288d",
+		"name" : "Servicios de aseo",
+		"code" : "1148",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "398811c7-3e40-4d0f-b1d3-d5130218d622",
+		"parent_id" : "d823a278-0d63-4da0-8f47-dbc2da62288d",
+		"name" : "Servicios Públicos",
+		"code" : "1149",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "4ddc9d72-3fdd-4f16-bfda-ccad7503a1b6",
+		"parent_id" : "d823a278-0d63-4da0-8f47-dbc2da62288d",
+		"name" : "Turismo",
+		"code" : "1150",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "9dc3b22c-cc67-4a3b-b81f-f937fb2b0190",
+		"parent_id" : "d823a278-0d63-4da0-8f47-dbc2da62288d",
+		"name" : "Vigilancia y seguridad",
+		"code" : "1151",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "6ba8dd50-f9bf-4913-b96c-fc8c4895761c",
+		"parent_id" : "f4742239-9d40-437b-b237-eb5d50d1d93c",
+		"name" : "Comercio de computadores",
+		"code" : "1152",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "f74da233-b21a-44f8-9cbf-e70632d0f55c",
+		"parent_id" : "f4742239-9d40-437b-b237-eb5d50d1d93c",
+		"name" : "Desarrollo y diseño de páginas web",
+		"code" : "1153",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "f14af699-aaf1-40be-9df1-34b95eeaa958",
+		"parent_id" : "f4742239-9d40-437b-b237-eb5d50d1d93c",
+		"name" : "Productores y distribuidores de software",
+		"code" : "1154",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "869c5dec-b577-4513-96fa-f51ea8729b56",
+		"parent_id" : "7794c39a-f841-429f-8930-cddfc6a0504b",
+		"name" : "Celulares",
+		"code" : "1155",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "48d1ceb6-f990-4e09-86ab-12676a88d55f",
+		"parent_id" : "7794c39a-f841-429f-8930-cddfc6a0504b",
+		"name" : "Equipos de telecomunicaciones",
+		"code" : "1156",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "b8d45d7d-2902-4049-b95a-beac7c4be6af",
+		"parent_id" : "7794c39a-f841-429f-8930-cddfc6a0504b",
+		"name" : "Otros (Telecomunicaciones)",
+		"code" : "1157",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "7b63e066-a37c-4799-be37-722d67c0e725",
+		"parent_id" : "7794c39a-f841-429f-8930-cddfc6a0504b",
+		"name" : "Servicios de telecomunicaciones",
+		"code" : "1158",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "2e5e76ed-f106-44d8-967e-ae385dcc1b5e",
+		"parent_id" : "4beee913-549e-4af3-81a0-f1fc16757ef5",
+		"name" : "Acabados textiles",
+		"code" : "1159",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "d6adbb13-6b45-4a53-bd06-7c7262e5a223",
+		"parent_id" : "4beee913-549e-4af3-81a0-f1fc16757ef5",
+		"name" : "Confecciones",
+		"code" : "1160",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "69afac45-80d1-499f-97b2-05ed767d0087",
+		"parent_id" : "4beee913-549e-4af3-81a0-f1fc16757ef5",
+		"name" : "Distribución de productos textiles y confecciones",
+		"code" : "1161",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "7044616a-44f6-481b-a235-0fe9210bd402",
+		"parent_id" : "4beee913-549e-4af3-81a0-f1fc16757ef5",
+		"name" : "Hilanderías",
+		"code" : "1162",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "1f3af056-6601-4ca1-9185-7929b583d1e0",
+		"parent_id" : "4beee913-549e-4af3-81a0-f1fc16757ef5",
+		"name" : "Textiles",
+		"code" : "1163",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "92d40980-53a0-4631-9f2f-2b4f2227176e",
+		"parent_id" : "6768ee00-838f-4647-aef2-081fb20e6ea3",
+		"name" : "Aéreo",
+		"code" : "1164",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "31fd071c-d177-4128-a5d7-53e7773a2cd9",
+		"parent_id" : "6768ee00-838f-4647-aef2-081fb20e6ea3",
+		"name" : "Marítimo y fluvial",
+		"code" : "1165",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "72914b19-4705-42af-b49c-1dbfb2c79c36",
+		"parent_id" : "6768ee00-838f-4647-aef2-081fb20e6ea3",
+		"name" : "Operadores, agentes y terminales",
+		"code" : "1166",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "04921c71-da0e-42ec-bc2e-e07aaf1b243c",
+		"parent_id" : "6768ee00-838f-4647-aef2-081fb20e6ea3",
+		"name" : "Terrestre",
+		"code" : "1167",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "ccc7d9e0-7eaa-4efd-ace8-f7ab309de075",
+		"parent_id" : "6768ee00-838f-4647-aef2-081fb20e6ea3",
+		"name" : "Valores",
+		"code" : "1168",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "f2ee9c58-82a5-46fe-9c7b-b93e2421ab47",
+		"parent_id" : "17946f39-67d3-402a-b9b8-dbf69daed06c",
+		"name" : "Carrocerías, partes y piezas para vehículos",
+		"code" : "1169",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "f65985d8-48c0-477b-b060-7d0dd295aa3d",
+		"parent_id" : "17946f39-67d3-402a-b9b8-dbf69daed06c",
+		"name" : "Comercialización de partes y accesorios",
+		"code" : "1170",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "c99a7a46-e4d5-4b32-aef9-3d735a205096",
+		"parent_id" : "17946f39-67d3-402a-b9b8-dbf69daed06c",
+		"name" : "Concesionarios",
+		"code" : "1171",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "4bd9c5bc-5e88-438c-8f19-1d7d1e70a585",
+		"parent_id" : "17946f39-67d3-402a-b9b8-dbf69daed06c",
+		"name" : "Ensambladora de vehículos",
+		"code" : "1172",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "60785bdf-35a4-4a4d-8862-89fc8bdb52a0",
+		"parent_id" : "17946f39-67d3-402a-b9b8-dbf69daed06c",
+		"name" : "Importadores de vehículos",
+		"code" : "1173",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "e42eaec6-2064-49d8-9da9-140c3f41536d",
+		"parent_id" : "17946f39-67d3-402a-b9b8-dbf69daed06c",
+		"name" : "Talleres",
+		"code" : "1174",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "07c00d7f-7903-4a46-a3c1-2034b8ce5092",
+		"parent_id" : "37789bd4-4e85-4181-8b4b-cf33cfa65a05",
+		"name" : "Consumo masivo",
+		"code" : "1175",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "fd4948c8-1cbf-406d-b1d8-ddbf7ad98658",
+		"parent_id" : "59758b7d-9f84-48bb-a675-5ac15d322077",
+		"name" : "Construcción naval",
+		"code" : "1176",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "d800afd9-10e4-460d-83c2-6f5becb108d4",
+		"parent_id" : "59758b7d-9f84-48bb-a675-5ac15d322077",
+		"name" : "Diseño naval",
+		"code" : "1177",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "c740c83f-b89f-469b-91d6-fc5895bd1c4e",
+		"parent_id" : "59758b7d-9f84-48bb-a675-5ac15d322077",
+		"name" : "Mantenimiento naval",
+		"code" : "1178",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "9dbdf0f3-1906-47b9-8fef-61d8a632896f",
+		"parent_id" : "59758b7d-9f84-48bb-a675-5ac15d322077",
+		"name" : "Naval",
+		"code" : "1179",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "7c3fafe3-b512-4ea7-a44c-42da2c872855",
+		"parent_id" : "59758b7d-9f84-48bb-a675-5ac15d322077",
+		"name" : "Reparación naval",
+		"code" : "1180",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "143b6859-19e6-4213-b77f-8103e914b2ea",
+		"parent_id" : "43253ac3-0687-46dd-a80a-21bc0a238349",
+		"name" : "Ayuda humanitaria y\/o cooperación al desarrollo",
+		"code" : "1181",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "ecf0eb05-c90a-4856-a990-30e0de3c4c0c",
+		"parent_id" : "1c30d78f-8a1e-40dd-8e82-c8080153f947",
+		"name" : "Otros",
+		"code" : "1182",
+		"description" : "",
+		"translations" : ""
+	}
+]}

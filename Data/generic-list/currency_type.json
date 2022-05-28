@@ -1,0 +1,2131 @@
+{
+"dtref_currency": [
+	{
+		"id" : "ad74138a-d6a5-4a4c-81a5-2a44644ae832",
+		"country" : "Afghanistan",
+		"currency" : "Afghani",
+		"code" : "AFN",
+		"minor_unit" : 2,
+		"symbol" : "؋"
+	},
+	{
+		"id" : "0d6d1ce4-bd22-4314-a85f-59010cbd57bf",
+		"country" : "Åland Islands",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "033fa521-ef48-456c-90f9-84048c64ad97",
+		"country" : "Albania",
+		"currency" : "Lek",
+		"code" : "ALL",
+		"minor_unit" : 2,
+		"symbol" : "Lek"
+	},
+	{
+		"id" : "acdd05a7-6901-4db6-af1b-8f8945a4222a",
+		"country" : "Algeria",
+		"currency" : "Algerian Dinar",
+		"code" : "DZD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "2f4d0abf-efec-4eba-b2aa-6a010816b6e4",
+		"country" : "American Samoa",
+		"currency" : "US Dollar",
+		"code" : "USD",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "22fc136d-944d-4880-83f0-cddba1974dae",
+		"country" : "Andorra",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "67be7c74-a22a-4849-bea2-820fc2d3587d",
+		"country" : "Angola",
+		"currency" : "Kwanza",
+		"code" : "AOA",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "b28366c7-72f7-4f94-9e72-bae29fd821ac",
+		"country" : "Anguilla",
+		"currency" : "East Caribbean Dollar",
+		"code" : "XCD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "86db4b13-09a3-4bc2-ae98-aa0ad0ecf2d0",
+		"country" : "Antigua And Barbuda",
+		"currency" : "East Caribbean Dollar",
+		"code" : "XCD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "cd006865-4a43-4682-abb2-a3c153ad4c0d",
+		"country" : "Argentina",
+		"currency" : "Argentine Peso",
+		"code" : "ARS",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "ee390c70-e1a6-47e7-8280-2c4e4ffb5ff4",
+		"country" : "Armenia",
+		"currency" : "Armenian Dram",
+		"code" : "AMD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "c7db4ada-be85-4e4b-a844-493b47e65485",
+		"country" : "Aruba",
+		"currency" : "Aruban Florin",
+		"code" : "AWG",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "990edbdd-0111-4491-91cf-81ff795a6e29",
+		"country" : "Australia",
+		"currency" : "Australian Dollar",
+		"code" : "AUD",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "c29028d9-a8de-4e33-be95-a3f01eaeca1a",
+		"country" : "Austria",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "a894c6ec-b8c7-4925-9531-e63cf151404e",
+		"country" : "Azerbaijan",
+		"currency" : "Azerbaijan Manat",
+		"code" : "AZN",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "20b2b43a-9af9-488c-a0eb-72a47e683e42",
+		"country" : "Bahamas",
+		"currency" : "Bahamian Dollar",
+		"code" : "BSD",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "3c98c7a6-933f-432f-a9c9-38b4e4918054",
+		"country" : "Bahrain",
+		"currency" : "Bahraini Dinar",
+		"code" : "BHD",
+		"minor_unit" : 3,
+		"symbol" : null
+	},
+	{
+		"id" : "e39d4369-f3c6-4de0-be73-c7199fc7075e",
+		"country" : "Bangladesh",
+		"currency" : "Taka",
+		"code" : "BDT",
+		"minor_unit" : 2,
+		"symbol" : "৳"
+	},
+	{
+		"id" : "ab9dd837-e68b-4f0f-aa36-34aae26c527f",
+		"country" : "Barbados",
+		"currency" : "Barbados Dollar",
+		"code" : "BBD",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "9beba7df-bf0b-48a1-b242-4e8bda4723d4",
+		"country" : "Belarus",
+		"currency" : "Belarusian Ruble",
+		"code" : "BYN",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "1abb2575-ae9d-4454-be27-683ab737df66",
+		"country" : "Belgium",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "246b0253-b908-4fc2-b66f-002838be1700",
+		"country" : "Belize",
+		"currency" : "Belize Dollar",
+		"code" : "BZD",
+		"minor_unit" : 2,
+		"symbol" : "BZ$"
+	},
+	{
+		"id" : "5b67aa2a-8667-4911-8045-bb508f625be4",
+		"country" : "Benin",
+		"currency" : "CFA Franc BCEAO",
+		"code" : "XOF",
+		"minor_unit" : 0,
+		"symbol" : null
+	},
+	{
+		"id" : "df3fe036-02c1-4eab-a0b8-926f6a0a8580",
+		"country" : "Bermuda",
+		"currency" : "Bermudian Dollar",
+		"code" : "BMD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "ff84d407-b404-47fc-9d4b-62772345b02e",
+		"country" : "Bhutan",
+		"currency" : "Indian Rupee",
+		"code" : "INR",
+		"minor_unit" : 2,
+		"symbol" : "₹"
+	},
+	{
+		"id" : "9cddbef6-9608-4a92-8742-afba6c498732",
+		"country" : "Bhutan",
+		"currency" : "Ngultrum",
+		"code" : "BTN",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "a6c0164e-a886-4a94-b76d-06f0bac11862",
+		"country" : "Bolivia",
+		"currency" : "Boliviano",
+		"code" : "BOB",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "b27ace9f-08e2-46ef-9d58-cf1d2e2f7bff",
+		"country" : "Bolivia",
+		"currency" : "Mvdol",
+		"code" : "BOV",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "cd99b6be-e31b-481f-b133-2c1f04a51fff",
+		"country" : "Bonaire, Sint Eustatius And Saba",
+		"currency" : "US Dollar",
+		"code" : "USD",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "9499d445-342e-474f-a479-7bde2a66bbb8",
+		"country" : "Bosnia And Herzegovina",
+		"currency" : "Convertible Mark",
+		"code" : "BAM",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "112f4eea-c69a-41a7-9c51-3690f4c52bfc",
+		"country" : "Botswana",
+		"currency" : "Pula",
+		"code" : "BWP",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "5b9d97ba-50b0-49e8-9d46-f7544c85cc13",
+		"country" : "Bouvet Island",
+		"currency" : "Norwegian Krone",
+		"code" : "NOK",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "0cb5a380-19a5-43d0-a88e-86384b73a252",
+		"country" : "Brazil",
+		"currency" : "Brazilian Real",
+		"code" : "BRL",
+		"minor_unit" : 2,
+		"symbol" : "R$"
+	},
+	{
+		"id" : "c09a65d5-802b-429a-9665-4894620e41f1",
+		"country" : "British Indian Ocean Territory",
+		"currency" : "US Dollar",
+		"code" : "USD",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "4091e0ef-2ee6-4d73-b40f-37254bbb3d85",
+		"country" : "Brunei Darussalam",
+		"currency" : "Brunei Dollar",
+		"code" : "BND",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "09a93106-3cfd-4362-9b5a-1c9a67db6bf3",
+		"country" : "Bulgaria",
+		"currency" : "Bulgarian Lev",
+		"code" : "BGN",
+		"minor_unit" : 2,
+		"symbol" : "лв"
+	},
+	{
+		"id" : "085dab76-cf58-41d1-ac3f-274fca0ab55f",
+		"country" : "Burkina Faso",
+		"currency" : "CFA Franc BCEAO",
+		"code" : "XOF",
+		"minor_unit" : 0,
+		"symbol" : null
+	},
+	{
+		"id" : "488d5e9d-4b3f-49f0-b106-5b30512aaed7",
+		"country" : "Burundi",
+		"currency" : "Burundi Franc",
+		"code" : "BIF",
+		"minor_unit" : 0,
+		"symbol" : null
+	},
+	{
+		"id" : "0e34d822-1766-4600-a3ab-232e43212ebf",
+		"country" : "Cabo Verde",
+		"currency" : "Cabo Verde Escudo",
+		"code" : "CVE",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "59863b94-ceac-4ea0-bb1b-15ad72c771bd",
+		"country" : "Cambodia",
+		"currency" : "Riel",
+		"code" : "KHR",
+		"minor_unit" : 2,
+		"symbol" : "៛"
+	},
+	{
+		"id" : "13361c1a-82cd-4b9e-8988-3a1435c437b3",
+		"country" : "Cameroon",
+		"currency" : "CFA Franc BEAC",
+		"code" : "XAF",
+		"minor_unit" : 0,
+		"symbol" : null
+	},
+	{
+		"id" : "c180d246-6a20-49c2-8219-37117e962cef",
+		"country" : "Canada",
+		"currency" : "Canadian Dollar",
+		"code" : "CAD",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "2e0acc33-9ac3-4ead-a876-6ff7587b411c",
+		"country" : "Cayman Islands",
+		"currency" : "Cayman Islands Dollar",
+		"code" : "KYD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "e970f8df-7216-47f2-871a-74440f59d6fa",
+		"country" : "Central African Republic",
+		"currency" : "CFA Franc BEAC",
+		"code" : "XAF",
+		"minor_unit" : 0,
+		"symbol" : null
+	},
+	{
+		"id" : "66b2ebfb-f9e4-4305-8088-798c27fc8e7e",
+		"country" : "Chad",
+		"currency" : "CFA Franc BEAC",
+		"code" : "XAF",
+		"minor_unit" : 0,
+		"symbol" : null
+	},
+	{
+		"id" : "9a392b38-5bfd-4829-a179-5e41ef6ace0e",
+		"country" : "Chile",
+		"currency" : "Chilean Peso",
+		"code" : "CLP",
+		"minor_unit" : 0,
+		"symbol" : "$"
+	},
+	{
+		"id" : "ee65be5b-1f8d-4773-a7c0-ce2837fdd7b7",
+		"country" : "Chile",
+		"currency" : "Unidad de Fomento",
+		"code" : "CLF",
+		"minor_unit" : 4,
+		"symbol" : null
+	},
+	{
+		"id" : "5f7c9e51-6be2-455b-922f-3906a648ea2d",
+		"country" : "China",
+		"currency" : "Yuan Renminbi",
+		"code" : "CNY",
+		"minor_unit" : 2,
+		"symbol" : "¥"
+	},
+	{
+		"id" : "8b9d852f-a94d-4adb-9fd3-f6a2afacee2b",
+		"country" : "Christmas Island",
+		"currency" : "Australian Dollar",
+		"code" : "AUD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "991bcc44-5a17-4128-b70c-79dcdf6d537b",
+		"country" : "Cocos (keeling) Islands",
+		"currency" : "Australian Dollar",
+		"code" : "AUD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "ff61acce-5c70-42d5-bf69-8613e9c5241f",
+		"country" : "Colombia",
+		"currency" : "Colombian Peso",
+		"code" : "COP",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "643efc5e-dab6-4d32-8544-6cab672e7e65",
+		"country" : "Colombia",
+		"currency" : "Unidad de Valor Real",
+		"code" : "COU",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "ded312dd-778d-4267-9aa1-e5a929592e4d",
+		"country" : "Comoros",
+		"currency" : "Comorian Franc ",
+		"code" : "KMF",
+		"minor_unit" : 0,
+		"symbol" : null
+	},
+	{
+		"id" : "ce1aef4d-7dd1-4d1e-9122-ca6d9b8f914d",
+		"country" : "Congo (the Democratic Republic Of The)",
+		"currency" : "Congolese Franc",
+		"code" : "CDF",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "c01c88d6-72c4-413a-a6b5-1a3ef3e5e29e",
+		"country" : "Congo",
+		"currency" : "CFA Franc BEAC",
+		"code" : "XAF",
+		"minor_unit" : 0,
+		"symbol" : null
+	},
+	{
+		"id" : "d0043d7a-65ba-466f-a430-1f8cfc0dffff",
+		"country" : "Cook Islands",
+		"currency" : "New Zealand Dollar",
+		"code" : "NZD",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "d5b3d024-ac7b-4c45-8008-7c7f35cd3635",
+		"country" : "Costa Rica",
+		"currency" : "Costa Rican Colon",
+		"code" : "CRC",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "8887dfe3-8db8-4a3b-bb65-98c02ba1ea8a",
+		"country" : "Côte D`ivoire",
+		"currency" : "CFA Franc BCEAO",
+		"code" : "XOF",
+		"minor_unit" : 0,
+		"symbol" : null
+	},
+	{
+		"id" : "55e8644e-cee8-48a4-b202-151e9d370a44",
+		"country" : "Croatia",
+		"currency" : "Kuna",
+		"code" : "HRK",
+		"minor_unit" : 2,
+		"symbol" : "kn"
+	},
+	{
+		"id" : "823544d3-8df3-4a1a-98b8-fe554a166c71",
+		"country" : "Cuba",
+		"currency" : "Cuban Peso",
+		"code" : "CUP",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "e87d6f74-a499-44e1-98b2-ef6520a95b5b",
+		"country" : "Cuba",
+		"currency" : "Peso Convertible",
+		"code" : "CUC",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "03fb2280-4a98-4da9-b701-83c2dbd0bb2e",
+		"country" : "Curaçao",
+		"currency" : "Netherlands Antillean Guilder",
+		"code" : "ANG",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "472a2622-2ed6-4519-8f24-92d00eb79e20",
+		"country" : "Cyprus",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "016e587a-6210-450c-80cf-4c0eed819a26",
+		"country" : "Czechia",
+		"currency" : "Czech Koruna",
+		"code" : "CZK",
+		"minor_unit" : 2,
+		"symbol" : "Kč"
+	},
+	{
+		"id" : "4f43dd47-d798-469a-9cff-e7c00c6736d3",
+		"country" : "Denmark",
+		"currency" : "Danish Krone",
+		"code" : "DKK",
+		"minor_unit" : 2,
+		"symbol" : "kr"
+	},
+	{
+		"id" : "d656cdd7-9e4d-4eb6-abe2-8e0e50b782ae",
+		"country" : "Djibouti",
+		"currency" : "Djibouti Franc",
+		"code" : "DJF",
+		"minor_unit" : 0,
+		"symbol" : null
+	},
+	{
+		"id" : "896204c2-a4eb-4e8f-8651-27ef6562507d",
+		"country" : "Dominica",
+		"currency" : "East Caribbean Dollar",
+		"code" : "XCD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "3ec54c54-dbe6-474a-9a4a-fb6de5edcdf7",
+		"country" : "Dominican Republic",
+		"currency" : "Dominican Peso",
+		"code" : "DOP",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "5879daae-3b37-4c6f-9057-2b150c1f79f9",
+		"country" : "Ecuador",
+		"currency" : "US Dollar",
+		"code" : "USD",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "43a7ffaf-ef16-4d32-9bd9-22f7dd87a0d9",
+		"country" : "Egypt",
+		"currency" : "Egyptian Pound",
+		"code" : "EGP",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "f376bb4d-40de-4c83-84b5-3e370b46c7a2",
+		"country" : "El Salvador",
+		"currency" : "El Salvador Colon",
+		"code" : "SVC",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "55240d9a-ceec-4bf0-857a-b4e841d2a30e",
+		"country" : "El Salvador",
+		"currency" : "US Dollar",
+		"code" : "USD",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "14547265-cf29-4466-935c-02a19c318f64",
+		"country" : "Equatorial Guinea",
+		"currency" : "CFA Franc BEAC",
+		"code" : "XAF",
+		"minor_unit" : 0,
+		"symbol" : null
+	},
+	{
+		"id" : "978d2c4f-5be3-44ff-8e4f-f4ce37dd67b5",
+		"country" : "Eritrea",
+		"currency" : "Nakfa",
+		"code" : "ERN",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "51850b1c-f4f5-431e-b07f-af0e4edbd243",
+		"country" : "Estonia",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "2fc565da-bb95-4170-8fdd-efdc8b4ad91c",
+		"country" : "Eswatini",
+		"currency" : "Lilangeni",
+		"code" : "SZL",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "ae8a461f-fa33-4701-980e-de2a7e023a58",
+		"country" : "Ethiopia",
+		"currency" : "Ethiopian Birr",
+		"code" : "ETB",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "4ce4c3a7-77a5-4552-ba82-2067a896b470",
+		"country" : "European Union",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "c56a4104-73ea-492e-bc5d-cc54d19a40f9",
+		"country" : "Falkland Islands [Malvinas]",
+		"currency" : "Falkland Islands Pound",
+		"code" : "FKP",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "d4799d53-7a64-482b-b4ec-627536adbd65",
+		"country" : "Faroe Islands",
+		"currency" : "Danish Krone",
+		"code" : "DKK",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "30f5291a-b47b-4e99-8fdc-bbefcc1a646c",
+		"country" : "Fiji",
+		"currency" : "Fiji Dollar",
+		"code" : "FJD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "a3608411-c051-4c25-8f3c-fa6e2079b639",
+		"country" : "Finland",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "be0c0198-7166-4771-89f7-cce0ad77f6f7",
+		"country" : "France",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "5f927a47-c77d-4d47-95a7-f6690e719f01",
+		"country" : "French Guiana",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "f83cbb96-ea6b-4b10-a313-5f2d1a6a0655",
+		"country" : "French Polynesia",
+		"currency" : "CFP Franc",
+		"code" : "XPF",
+		"minor_unit" : 0,
+		"symbol" : null
+	},
+	{
+		"id" : "e5c4af13-2e23-4354-935e-96a5185bee15",
+		"country" : "French Southern Territories",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "438a2a21-268d-434b-88c5-0f2698883661",
+		"country" : "Gabon",
+		"currency" : "CFA Franc BEAC",
+		"code" : "XAF",
+		"minor_unit" : 0,
+		"symbol" : null
+	},
+	{
+		"id" : "f9e62f4f-a260-4f43-8331-9e087a616e26",
+		"country" : "Gambia",
+		"currency" : "Dalasi",
+		"code" : "GMD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "eebc3193-db43-4f9b-b1e4-17016a3cf080",
+		"country" : "Georgia",
+		"currency" : "Lari",
+		"code" : "GEL",
+		"minor_unit" : 2,
+		"symbol" : "₾"
+	},
+	{
+		"id" : "57c32d77-e449-407b-b122-5684b65bba33",
+		"country" : "Germany",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "33e36a1b-1149-48d0-b457-c0e81e30daee",
+		"country" : "Ghana",
+		"currency" : "Ghana Cedi",
+		"code" : "GHS",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "8b992205-2ba1-4111-86c0-c25132a3d6cb",
+		"country" : "Gibraltar",
+		"currency" : "Gibraltar Pound",
+		"code" : "GIP",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "940f294f-2843-4ff1-8aa0-5abe7adb0765",
+		"country" : "Greece",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "d721c095-42cf-4a99-b3fa-8d786fcbf82a",
+		"country" : "Greenland",
+		"currency" : "Danish Krone",
+		"code" : "DKK",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "e6914a75-afa1-4b8e-b483-36c79020116d",
+		"country" : "Grenada",
+		"currency" : "East Caribbean Dollar",
+		"code" : "XCD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "6c02a91d-eda7-4dc9-b06a-8ab29d6c79ee",
+		"country" : "Guadeloupe",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "406e719d-0f20-468f-8f4e-473a3834c5b7",
+		"country" : "Guam",
+		"currency" : "US Dollar",
+		"code" : "USD",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "898a9088-ad85-4dc9-a417-77960f93e34f",
+		"country" : "Guatemala",
+		"currency" : "Quetzal",
+		"code" : "GTQ",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "d35601ac-3636-4f36-a111-9d2b70abd6ee",
+		"country" : "Guernsey",
+		"currency" : "Pound Sterling",
+		"code" : "GBP",
+		"minor_unit" : 2,
+		"symbol" : "£"
+	},
+	{
+		"id" : "88832361-0305-42ca-a389-675b375ea345",
+		"country" : "Guinea",
+		"currency" : "Guinean Franc",
+		"code" : "GNF",
+		"minor_unit" : 0,
+		"symbol" : null
+	},
+	{
+		"id" : "584c6d61-f72a-4f49-a384-be10b0f0ab52",
+		"country" : "Guinea-bissau",
+		"currency" : "CFA Franc BCEAO",
+		"code" : "XOF",
+		"minor_unit" : 0,
+		"symbol" : null
+	},
+	{
+		"id" : "d828f502-9953-422c-a0bb-25340f21ac92",
+		"country" : "Guyana",
+		"currency" : "Guyana Dollar",
+		"code" : "GYD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "0ced5dbc-9be7-4eb5-aca1-83829c0d75e8",
+		"country" : "Haiti",
+		"currency" : "Gourde",
+		"code" : "HTG",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "7ac14b6a-8125-48a4-bd60-8e9e58a629a0",
+		"country" : "Haiti",
+		"currency" : "US Dollar",
+		"code" : "USD",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "9f752b72-a937-4eab-a22c-611061746322",
+		"country" : "Heard Island And Mcdonald Islands",
+		"currency" : "Australian Dollar",
+		"code" : "AUD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "9e53bae0-366e-4cea-9db9-f310d3da5682",
+		"country" : "Holy See (Vatican)",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "86a327cf-5a5f-4ba4-9020-e70dbb363c54",
+		"country" : "Honduras",
+		"currency" : "Lempira",
+		"code" : "HNL",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "3d6778b2-630a-4416-b819-03c120d8908d",
+		"country" : "Hong Kong",
+		"currency" : "Hong Kong Dollar",
+		"code" : "HKD",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "753368ba-fad3-4e65-b1a7-7f9a3dc42436",
+		"country" : "Hungary",
+		"currency" : "Forint",
+		"code" : "HUF",
+		"minor_unit" : 2,
+		"symbol" : "ft"
+	},
+	{
+		"id" : "09cd467c-d4fa-4b74-8dab-1397a7a5b497",
+		"country" : "Iceland",
+		"currency" : "Iceland Krona",
+		"code" : "ISK",
+		"minor_unit" : 0,
+		"symbol" : null
+	},
+	{
+		"id" : "a309b604-7645-4b21-bbe3-31bf4f633584",
+		"country" : "India",
+		"currency" : "Indian Rupee",
+		"code" : "INR",
+		"minor_unit" : 2,
+		"symbol" : "₹"
+	},
+	{
+		"id" : "df247949-792e-494a-916f-bb8d6620706c",
+		"country" : "Indonesia",
+		"currency" : "Rupiah",
+		"code" : "IDR",
+		"minor_unit" : 2,
+		"symbol" : "Rp"
+	},
+	{
+		"id" : "c26a2c4a-dfa3-4eec-8821-f7c8eb46b958",
+		"country" : "International Monetary Fund (IMF)",
+		"currency" : "SDR (Special Drawing Right)",
+		"code" : "XDR",
+		"minor_unit" : 0,
+		"symbol" : null
+	},
+	{
+		"id" : "e7fa48db-929a-49dd-960d-07a9a1559fc2",
+		"country" : "Iran",
+		"currency" : "Iranian Rial",
+		"code" : "IRR",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "2039756b-d123-4bd5-bfd0-9b7d5fcbab54",
+		"country" : "Iraq",
+		"currency" : "Iraqi Dinar",
+		"code" : "IQD",
+		"minor_unit" : 3,
+		"symbol" : null
+	},
+	{
+		"id" : "943f993e-050c-408a-a8a7-372a9217aa53",
+		"country" : "Ireland",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "227cbd65-9795-41de-be3f-8a1e0cae1f60",
+		"country" : "Isle Of Man",
+		"currency" : "Pound Sterling",
+		"code" : "GBP",
+		"minor_unit" : 2,
+		"symbol" : "£"
+	},
+	{
+		"id" : "ca3c30cc-a5d4-46f5-a0aa-34d3ad8d0150",
+		"country" : "Israel",
+		"currency" : "New Israeli Sheqel",
+		"code" : "ILS",
+		"minor_unit" : 2,
+		"symbol" : "₪"
+	},
+	{
+		"id" : "2b98b1f9-6293-443a-ad27-7a43e791a416",
+		"country" : "Italy",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "129ad132-7bee-4322-a4cb-396a5e1bf2d6",
+		"country" : "Jamaica",
+		"currency" : "Jamaican Dollar",
+		"code" : "JMD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "14b183d5-c7b1-442e-8276-0fa7996d10e3",
+		"country" : "Japan",
+		"currency" : "Yen",
+		"code" : "JPY",
+		"minor_unit" : 0,
+		"symbol" : "¥"
+	},
+	{
+		"id" : "ad60d72f-72d3-4150-b417-9345a910a052",
+		"country" : "Jersey",
+		"currency" : "Pound Sterling",
+		"code" : "GBP",
+		"minor_unit" : 2,
+		"symbol" : "£"
+	},
+	{
+		"id" : "797c0b89-b730-4302-9ae4-6c1b31c9ad46",
+		"country" : "Jordan",
+		"currency" : "Jordanian Dinar",
+		"code" : "JOD",
+		"minor_unit" : 3,
+		"symbol" : null
+	},
+	{
+		"id" : "69f2df44-ae8e-4a1f-a353-9ad559929cc5",
+		"country" : "Kazakhstan",
+		"currency" : "Tenge",
+		"code" : "KZT",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "b06e689a-1ba9-4f6c-a90e-320910090fb9",
+		"country" : "Kenya",
+		"currency" : "Kenyan Shilling",
+		"code" : "KES",
+		"minor_unit" : 2,
+		"symbol" : "Ksh"
+	},
+	{
+		"id" : "5fd7b85b-192c-4abf-9233-06834dcfbdf1",
+		"country" : "Kiribati",
+		"currency" : "Australian Dollar",
+		"code" : "AUD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "4463c5ba-3dc3-4046-aeea-c8855732347e",
+		"country" : "Korea (the Democratic People’s Republic Of)",
+		"currency" : "North Korean Won",
+		"code" : "KPW",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "46faddf6-669e-4273-94b3-84655001db4c",
+		"country" : "Korea (the Republic Of)",
+		"currency" : "Won",
+		"code" : "KRW",
+		"minor_unit" : 0,
+		"symbol" : "₩"
+	},
+	{
+		"id" : "6b75e313-a49e-40c5-97a5-3c3dec7cd75a",
+		"country" : "Kuwait",
+		"currency" : "Kuwaiti Dinar",
+		"code" : "KWD",
+		"minor_unit" : 3,
+		"symbol" : null
+	},
+	{
+		"id" : "2753f062-8c1f-457f-9290-388c07ef3ddb",
+		"country" : "Kyrgyzstan",
+		"currency" : "Som",
+		"code" : "KGS",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "b3d02560-9ca8-4eaf-b9df-8a27d77e4657",
+		"country" : "Lao People’s Democratic Republic",
+		"currency" : "Lao Kip",
+		"code" : "LAK",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "7fadedc4-a875-4e73-9ee0-04e8b54ebd0a",
+		"country" : "Latvia",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "fb407ee2-731e-44f8-ac05-d94f83b7f27a",
+		"country" : "Lebanon",
+		"currency" : "Lebanese Pound",
+		"code" : "LBP",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "e9d4f1f3-a3a5-4d8a-8aee-9183e5faa644",
+		"country" : "Lesotho",
+		"currency" : "Loti",
+		"code" : "LSL",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "9bc13d35-8450-43ec-b531-1d598560d3a4",
+		"country" : "Lesotho",
+		"currency" : "Rand",
+		"code" : "ZAR",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "492db039-b85b-4190-b052-998a7547ad18",
+		"country" : "Liberia",
+		"currency" : "Liberian Dollar",
+		"code" : "LRD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "49f0e00c-f3c5-437a-9beb-e47dacb8ebd0",
+		"country" : "Libya",
+		"currency" : "Libyan Dinar",
+		"code" : "LYD",
+		"minor_unit" : 3,
+		"symbol" : null
+	},
+	{
+		"id" : "1c101b13-9ce0-445a-bd56-368d12b2260a",
+		"country" : "Liechtenstein",
+		"currency" : "Swiss Franc",
+		"code" : "CHF",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "5ddbab36-6323-495c-8b72-2f0f98292c74",
+		"country" : "Lithuania",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "9135034d-9c75-4d52-ae10-c5a85cfa7f15",
+		"country" : "Luxembourg",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "50456ee5-95a2-4c81-9c08-c5f9f5c88bac",
+		"country" : "Macao",
+		"currency" : "Pataca",
+		"code" : "MOP",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "63384d8c-f9a7-4659-a6ec-8c122b8dfd21",
+		"country" : "North Macedonia",
+		"currency" : "Denar",
+		"code" : "MKD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "5e634c10-9b29-4297-9584-1c450fba578e",
+		"country" : "Madagascar",
+		"currency" : "Malagasy Ariary",
+		"code" : "MGA",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "0cbd5a9f-ecaa-4990-8f0d-357391519470",
+		"country" : "Malawi",
+		"currency" : "Malawi Kwacha",
+		"code" : "MWK",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "1e461248-41b5-4470-a752-4ffdfa2366d6",
+		"country" : "Malaysia",
+		"currency" : "Malaysian Ringgit",
+		"code" : "MYR",
+		"minor_unit" : 2,
+		"symbol" : "RM"
+	},
+	{
+		"id" : "13f2c7f6-7d24-4d30-9ef5-92b31ccd969c",
+		"country" : "Maldives",
+		"currency" : "Rufiyaa",
+		"code" : "MVR",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "3f754289-422a-432b-a989-746355f7be23",
+		"country" : "Mali",
+		"currency" : "CFA Franc BCEAO",
+		"code" : "XOF",
+		"minor_unit" : 0,
+		"symbol" : null
+	},
+	{
+		"id" : "54a82d24-dd10-4091-8c98-da4a01812b2b",
+		"country" : "Malta",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "7c93e2b1-89fe-46ab-abbb-bece8a93d1e9",
+		"country" : "Marshall Islands",
+		"currency" : "US Dollar",
+		"code" : "USD",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "fdb22198-4db7-4891-b54d-24582ee9a161",
+		"country" : "Martinique",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "eaadfd2b-3678-47d3-a007-17749b939ebc",
+		"country" : "Mauritania",
+		"currency" : "Ouguiya",
+		"code" : "MRU",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "f4be9193-a67c-4f54-8b50-13d563a54a99",
+		"country" : "Mauritius",
+		"currency" : "Mauritius Rupee",
+		"code" : "MUR",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "e6d61c2f-51f8-4f88-8bc5-3f2d3e52e7a5",
+		"country" : "Mayotte",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "0d5f0f49-a11b-496b-b981-1dabce776264",
+		"country" : "Member Countries Of The African Development Bank Group",
+		"currency" : "ADB Unit of Account",
+		"code" : "XUA",
+		"minor_unit" : 0,
+		"symbol" : null
+	},
+	{
+		"id" : "c9f31637-3b30-4f2f-98d2-41f53e9d339a",
+		"country" : "Mexico",
+		"currency" : "Mexican Peso",
+		"code" : "MXN",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "5d4331ff-0c66-4a29-88f4-e3a1f64c80bd",
+		"country" : "Mexico",
+		"currency" : "Mexican Unidad de Inversion (UDI)",
+		"code" : "MXV",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "e6fbd330-a834-4ee7-bbb5-6c1b715e8c54",
+		"country" : "Micronesia",
+		"currency" : "US Dollar",
+		"code" : "USD",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "9b46c232-d70e-47cd-821d-183737169357",
+		"country" : "Moldova",
+		"currency" : "Moldovan Leu",
+		"code" : "MDL",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "5cf89236-8752-4d01-b46e-7d1638e478ee",
+		"country" : "Monaco",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "7ddeb20c-235a-4a31-88ab-0682fa2ddb21",
+		"country" : "Mongolia",
+		"currency" : "Tugrik",
+		"code" : "MNT",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "4bc5dcfa-dd9c-4128-bb27-2ad7ca4de9dd",
+		"country" : "Montenegro",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "0395647a-f48b-45d7-9599-873e417e009d",
+		"country" : "Montserrat",
+		"currency" : "East Caribbean Dollar",
+		"code" : "XCD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "03a100e6-c218-4d4b-a1dd-6b45c2055df9",
+		"country" : "Morocco",
+		"currency" : "Moroccan Dirham",
+		"code" : "MAD",
+		"minor_unit" : 2,
+		"symbol" : " .د.م "
+	},
+	{
+		"id" : "6ba0c145-ad96-4c1a-bb5e-a9701706def9",
+		"country" : "Mozambique",
+		"currency" : "Mozambique Metical",
+		"code" : "MZN",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "969da097-278d-4522-aec4-de2ffea860a2",
+		"country" : "Myanmar",
+		"currency" : "Kyat",
+		"code" : "MMK",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "c99bd5df-7266-4862-bf08-ff7d2a03b79b",
+		"country" : "Namibia",
+		"currency" : "Namibia Dollar",
+		"code" : "NAD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "cc905c9f-a4b9-4969-aa08-877b524165ae",
+		"country" : "Namibia",
+		"currency" : "Rand",
+		"code" : "ZAR",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "b7eb7188-1e3f-42f5-8393-3c6928ddf32f",
+		"country" : "Nauru",
+		"currency" : "Australian Dollar",
+		"code" : "AUD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "81cb22a6-2d30-4171-9d35-9669a2a22c23",
+		"country" : "Nepal",
+		"currency" : "Nepalese Rupee",
+		"code" : "NPR",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "42ce7a19-aed2-47eb-9f45-ab761a5f3b39",
+		"country" : "Netherlands",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "828c629f-362a-4e67-809e-d034d6f2b019",
+		"country" : "New Caledonia",
+		"currency" : "CFP Franc",
+		"code" : "XPF",
+		"minor_unit" : 0,
+		"symbol" : null
+	},
+	{
+		"id" : "60245b13-bf5c-4242-9c59-a39643267478",
+		"country" : "New Zealand",
+		"currency" : "New Zealand Dollar",
+		"code" : "NZD",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "5ec6e292-0788-42d9-b98b-9d108bb9a9b3",
+		"country" : "Nicaragua",
+		"currency" : "Cordoba Oro",
+		"code" : "NIO",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "cd2261dc-78d0-4965-b3c5-324bd52c7512",
+		"country" : "Niger",
+		"currency" : "CFA Franc BCEAO",
+		"code" : "XOF",
+		"minor_unit" : 0,
+		"symbol" : null
+	},
+	{
+		"id" : "eaeaa1dd-bdfd-4083-ad65-fef153719bd7",
+		"country" : "Nigeria",
+		"currency" : "Naira",
+		"code" : "NGN",
+		"minor_unit" : 2,
+		"symbol" : "₦"
+	},
+	{
+		"id" : "0f64f349-f7e1-4cf9-88a1-2b39bbec0f60",
+		"country" : "Niue",
+		"currency" : "New Zealand Dollar",
+		"code" : "NZD",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "f36b4478-75f4-4c20-8aca-499a02a4617d",
+		"country" : "Norfolk Island",
+		"currency" : "Australian Dollar",
+		"code" : "AUD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "13915b89-d1a4-4b88-a2c3-d5ddabdc6ffa",
+		"country" : "Northern Mariana Islands",
+		"currency" : "US Dollar",
+		"code" : "USD",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "e496fde5-fd8a-4af7-95bc-fc62671fa083",
+		"country" : "Norway",
+		"currency" : "Norwegian Krone",
+		"code" : "NOK",
+		"minor_unit" : 2,
+		"symbol" : "kr"
+	},
+	{
+		"id" : "b22cbf84-66d6-45ee-95fd-0900ac9abdbe",
+		"country" : "Oman",
+		"currency" : "Rial Omani",
+		"code" : "OMR",
+		"minor_unit" : 3,
+		"symbol" : null
+	},
+	{
+		"id" : "f64551db-5ee2-4f5f-aea4-91301de96f37",
+		"country" : "Pakistan",
+		"currency" : "Pakistan Rupee",
+		"code" : "PKR",
+		"minor_unit" : 2,
+		"symbol" : "Rs"
+	},
+	{
+		"id" : "eb92aa0f-cd08-4aa1-89f3-1c41f9361bf8",
+		"country" : "Palau",
+		"currency" : "US Dollar",
+		"code" : "USD",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "a42a2536-0ba4-4c25-9c02-d9d44d475a04",
+		"country" : "Panama",
+		"currency" : "Balboa",
+		"code" : "PAB",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "e9c6d215-4db9-45e7-a9d8-20d7e7448132",
+		"country" : "Panama",
+		"currency" : "US Dollar",
+		"code" : "USD",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "00ada89e-ee3b-45d8-a796-cde665c9abd6",
+		"country" : "Papua New Guinea",
+		"currency" : "Kina",
+		"code" : "PGK",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "ae473010-3e60-4a12-96be-72b9bae18922",
+		"country" : "Paraguay",
+		"currency" : "Guarani",
+		"code" : "PYG",
+		"minor_unit" : 0,
+		"symbol" : null
+	},
+	{
+		"id" : "67ac4a6c-b1c2-4be0-b6b2-87eb5c1a4987",
+		"country" : "Peru",
+		"currency" : "Sol",
+		"code" : "PEN",
+		"minor_unit" : 2,
+		"symbol" : "S"
+	},
+	{
+		"id" : "d050bfbb-27cd-410f-82c0-0b1987009a2b",
+		"country" : "Philippines",
+		"currency" : "Philippine Peso",
+		"code" : "PHP",
+		"minor_unit" : 2,
+		"symbol" : "₱"
+	},
+	{
+		"id" : "eb968a3c-9a59-41e9-a340-8bc35ec8f9e8",
+		"country" : "Pitcairn",
+		"currency" : "New Zealand Dollar",
+		"code" : "NZD",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "07d7bc54-9bd5-4baf-bad7-237fd8c58ea2",
+		"country" : "Poland",
+		"currency" : "Zloty",
+		"code" : "PLN",
+		"minor_unit" : 2,
+		"symbol" : "zł"
+	},
+	{
+		"id" : "8e30be70-a094-4ef3-8b02-25c56e3caeff",
+		"country" : "Portugal",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "8664eb62-6230-491c-8c4d-5d0fb7050caf",
+		"country" : "Puerto Rico",
+		"currency" : "US Dollar",
+		"code" : "USD",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "e3ee5b06-9b12-401a-a87d-0ce49f5ddcfe",
+		"country" : "Qatar",
+		"currency" : "Qatari Rial",
+		"code" : "QAR",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "1e7612af-81eb-49b6-a64f-d8899e64e343",
+		"country" : "Réunion",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "b5a98210-eea9-4692-88cd-677fbdcd7426",
+		"country" : "Romania",
+		"currency" : "Romanian Leu",
+		"code" : "RON",
+		"minor_unit" : 2,
+		"symbol" : "lei"
+	},
+	{
+		"id" : "7fa42dbc-971e-4290-8b4e-33d36ac7dc40",
+		"country" : "Russian Federation",
+		"currency" : "Russian Ruble",
+		"code" : "RUB",
+		"minor_unit" : 2,
+		"symbol" : "₽"
+	},
+	{
+		"id" : "0945eade-39f5-4906-896d-9ea2f84fbc04",
+		"country" : "Rwanda",
+		"currency" : "Rwanda Franc",
+		"code" : "RWF",
+		"minor_unit" : 0,
+		"symbol" : null
+	},
+	{
+		"id" : "9bebf5a9-48bd-4e53-ba76-a3e1993f31b7",
+		"country" : "Saint Barthélemy",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "54e07731-34dc-4c42-acd4-317a6b73c48c",
+		"country" : "Saint Helena, Ascension And Tristan Da Cunha",
+		"currency" : "Saint Helena Pound",
+		"code" : "SHP",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "073b420c-d9e6-452a-b31d-fea93d7be04a",
+		"country" : "Saint Kitts And Nevis",
+		"currency" : "East Caribbean Dollar",
+		"code" : "XCD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "f668c6a8-d5f0-4606-9f1d-14ff01190e56",
+		"country" : "Saint Lucia",
+		"currency" : "East Caribbean Dollar",
+		"code" : "XCD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "16cab195-d02b-4b11-b5d8-557cbe109ef0",
+		"country" : "Saint Martin (French Part)",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "c1d74a0a-a49b-4254-b33d-0f7cbde143d0",
+		"country" : "Saint Pierre And Miquelon",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "f53808e6-2039-4acf-bcca-f326ee91d99b",
+		"country" : "Saint Vincent And The Grenadines",
+		"currency" : "East Caribbean Dollar",
+		"code" : "XCD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "5e642036-b6e7-4e7c-9d88-59214bc1c294",
+		"country" : "Samoa",
+		"currency" : "Tala",
+		"code" : "WST",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "c52a0107-74f1-4210-b36f-c5db7e6ce350",
+		"country" : "San Marino",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "a3f42bd7-e519-432f-b950-7b675765e9a8",
+		"country" : "Sao Tome And Principe",
+		"currency" : "Dobra",
+		"code" : "STN",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "400a1da0-ce50-44fe-9c79-ba20b1addaf0",
+		"country" : "Saudi Arabia",
+		"currency" : "Saudi Riyal",
+		"code" : "SAR",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "47859271-b26b-485e-afcf-e27328c36fd5",
+		"country" : "Senegal",
+		"currency" : "CFA Franc BCEAO",
+		"code" : "XOF",
+		"minor_unit" : 0,
+		"symbol" : null
+	},
+	{
+		"id" : "785b0384-ec7f-4c72-8207-e9f55e575a66",
+		"country" : "Serbia",
+		"currency" : "Serbian Dinar",
+		"code" : "RSD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "9be5aceb-0057-4ea3-accf-10b218ad93ef",
+		"country" : "Seychelles",
+		"currency" : "Seychelles Rupee",
+		"code" : "SCR",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "519f4448-1356-4316-92d1-3d227ea8a88e",
+		"country" : "Sierra Leone",
+		"currency" : "Leone",
+		"code" : "SLL",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "5f74931f-0cb1-4e23-84aa-cf02aee890a7",
+		"country" : "Singapore",
+		"currency" : "Singapore Dollar",
+		"code" : "SGD",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "9eafcc3d-cf02-4b0c-97e5-77839ca30ab8",
+		"country" : "Sint Maarten (Dutch Part)",
+		"currency" : "Netherlands Antillean Guilder",
+		"code" : "ANG",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "f27be3de-d971-4ba8-a703-c75cbe919a62",
+		"country" : "Sistema Unitario De Compensacion Regional De Pagos \\\"sucre\\\"\\\"\\\"",
+		"currency" : "Sucre",
+		"code" : "XSU",
+		"minor_unit" : 0,
+		"symbol" : null
+	},
+	{
+		"id" : "88fe258a-9cab-405b-a9ef-65ef0f20add8",
+		"country" : "Slovakia",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "517f7afd-9e34-4d57-961c-ed9f0d1d8d7b",
+		"country" : "Slovenia",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "f116c1a0-dd09-4997-acc8-d74ff1bd2a88",
+		"country" : "Solomon Islands",
+		"currency" : "Solomon Islands Dollar",
+		"code" : "SBD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "9811f5f5-8895-478d-8988-6f4fa109b02b",
+		"country" : "Somalia",
+		"currency" : "Somali Shilling",
+		"code" : "SOS",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "e150f18d-2150-4dcf-a0e4-0f4c5c28908d",
+		"country" : "South Africa",
+		"currency" : "Rand",
+		"code" : "ZAR",
+		"minor_unit" : 2,
+		"symbol" : "R"
+	},
+	{
+		"id" : "fe44210f-8512-4075-a95f-f98cd21ef62c",
+		"country" : "South Sudan",
+		"currency" : "South Sudanese Pound",
+		"code" : "SSP",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "75b0d53e-0afa-409f-8391-e3d7785faa76",
+		"country" : "Spain",
+		"currency" : "Euro",
+		"code" : "EUR",
+		"minor_unit" : 2,
+		"symbol" : "€"
+	},
+	{
+		"id" : "844e1be4-d844-47d3-9ec6-165283a0c721",
+		"country" : "Sri Lanka",
+		"currency" : "Sri Lanka Rupee",
+		"code" : "LKR",
+		"minor_unit" : 2,
+		"symbol" : "Rs"
+	},
+	{
+		"id" : "0b95f48e-5228-46ad-8365-933a2e2520c7",
+		"country" : "Sudan (the)",
+		"currency" : "Sudanese Pound",
+		"code" : "SDG",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "b3794ec4-a588-46a8-8727-f510c0338e8e",
+		"country" : "Suriname",
+		"currency" : "Surinam Dollar",
+		"code" : "SRD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "62763a3e-c0b1-4d47-9954-04d91ae8d549",
+		"country" : "Svalbard And Jan Mayen",
+		"currency" : "Norwegian Krone",
+		"code" : "NOK",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "8d9a1eef-c945-44ba-9e60-abcf33e26390",
+		"country" : "Sweden",
+		"currency" : "Swedish Krona",
+		"code" : "SEK",
+		"minor_unit" : 2,
+		"symbol" : "kr"
+	},
+	{
+		"id" : "63c86664-b92d-4d5c-a249-74ed657a805f",
+		"country" : "Switzerland",
+		"currency" : "Swiss Franc",
+		"code" : "CHF",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "e70c0e59-9bfb-43dd-a8f4-73138e978fbf",
+		"country" : "Switzerland",
+		"currency" : "WIR Euro",
+		"code" : "CHE",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "ce5be15e-955e-4f7e-bae0-d4182989207d",
+		"country" : "Switzerland",
+		"currency" : "WIR Franc",
+		"code" : "CHW",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "a900e543-6309-4b6c-a69a-250ec84e7948",
+		"country" : "Syrian Arab Republic",
+		"currency" : "Syrian Pound",
+		"code" : "SYP",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "0e7234c3-ce48-495c-a993-b9526258a8f3",
+		"country" : "Taiwan",
+		"currency" : "New Taiwan Dollar",
+		"code" : "TWD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "3e57096b-dba2-4ff4-a8f8-8700990048e9",
+		"country" : "Tajikistan",
+		"currency" : "Somoni",
+		"code" : "TJS",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "0005b015-6aee-415b-851b-e40e60f8c03b",
+		"country" : "Tanzania, United Republic Of",
+		"currency" : "Tanzanian Shilling",
+		"code" : "TZS",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "9943820f-f6ad-4cb5-b8b7-2d94b5c76d50",
+		"country" : "Thailand",
+		"currency" : "Baht",
+		"code" : "THB",
+		"minor_unit" : 2,
+		"symbol" : "฿"
+	},
+	{
+		"id" : "56a928d9-ecc7-49d5-8798-8ef3f19d0bcf",
+		"country" : "Timor-leste",
+		"currency" : "US Dollar",
+		"code" : "USD",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "fce42a2b-9584-47cb-8a70-4f3b4e828d13",
+		"country" : "Togo",
+		"currency" : "CFA Franc BCEAO",
+		"code" : "XOF",
+		"minor_unit" : 0,
+		"symbol" : null
+	},
+	{
+		"id" : "d3b54041-f3ef-4b76-ab71-733a0e7eaf46",
+		"country" : "Tokelau",
+		"currency" : "New Zealand Dollar",
+		"code" : "NZD",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "ef15d465-c80c-40c8-9542-23fb0c92c617",
+		"country" : "Tonga",
+		"currency" : "Pa’anga",
+		"code" : "TOP",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "5e8ba944-f932-46a8-9dd1-a646bce013c9",
+		"country" : "Trinidad And Tobago",
+		"currency" : "Trinidad and Tobago Dollar",
+		"code" : "TTD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "9c2403d1-bc12-40a6-a5f0-ba4bdf78dfb5",
+		"country" : "Tunisia",
+		"currency" : "Tunisian Dinar",
+		"code" : "TND",
+		"minor_unit" : 3,
+		"symbol" : null
+	},
+	{
+		"id" : "2c417a33-4205-4865-bfff-320163f33075",
+		"country" : "Turkey",
+		"currency" : "Turkish Lira",
+		"code" : "TRY",
+		"minor_unit" : 2,
+		"symbol" : "₺"
+	},
+	{
+		"id" : "baab50ed-dc07-4de2-87d2-87d9f1d8f956",
+		"country" : "Turkmenistan",
+		"currency" : "Turkmenistan New Manat",
+		"code" : "TMT",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "e6be9672-2b8d-48a9-9f64-8261bd652d28",
+		"country" : "Turks And Caicos Islands",
+		"currency" : "US Dollar",
+		"code" : "USD",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "c659c9da-fc94-4f4d-8d9e-5b12b3398720",
+		"country" : "Tuvalu",
+		"currency" : "Australian Dollar",
+		"code" : "AUD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "53c69e75-8511-4e96-bfc3-80ded180ded7",
+		"country" : "Uganda",
+		"currency" : "Uganda Shilling",
+		"code" : "UGX",
+		"minor_unit" : 0,
+		"symbol" : null
+	},
+	{
+		"id" : "a7e3c48e-4666-4acd-be1b-4a0f8e367042",
+		"country" : "Ukraine",
+		"currency" : "Hryvnia",
+		"code" : "UAH",
+		"minor_unit" : 2,
+		"symbol" : "₴"
+	},
+	{
+		"id" : "f0ecf6d6-67ec-4a75-9a82-3ee652986733",
+		"country" : "United Arab Emirates",
+		"currency" : "UAE Dirham",
+		"code" : "AED",
+		"minor_unit" : 2,
+		"symbol" : "د.إ"
+	},
+	{
+		"id" : "f8111bdc-a8fa-48cb-9eba-93cb339f9908",
+		"country" : "United Kingdom Of Great Britain And Northern Ireland",
+		"currency" : "Pound Sterling",
+		"code" : "GBP",
+		"minor_unit" : 2,
+		"symbol" : "£"
+	},
+	{
+		"id" : "0aef3b74-a0c9-4dde-93f5-89b95aa265eb",
+		"country" : "United States Minor Outlying Islands",
+		"currency" : "US Dollar",
+		"code" : "USD",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "e34e384f-6c83-4436-b0ed-08650294feaf",
+		"country" : "United States Of America",
+		"currency" : "US Dollar",
+		"code" : "USD",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "ef2b256b-c27c-45f7-b212-52bb4691f771",
+		"country" : "United States Of America",
+		"currency" : "US Dollar (Next day)",
+		"code" : "USN",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "05b2507d-ea27-4307-acb3-de86b6bc4baf",
+		"country" : "Uruguay",
+		"currency" : "Peso Uruguayo",
+		"code" : "UYU",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "13890afa-a0be-4fb6-b8d4-4bc687932604",
+		"country" : "Uruguay",
+		"currency" : "Uruguay Peso en Unidades Indexadas (UI)",
+		"code" : "UYI",
+		"minor_unit" : 0,
+		"symbol" : null
+	},
+	{
+		"id" : "bbf76503-71dd-42be-ac47-1c3c81ff14c8",
+		"country" : "Uruguay",
+		"currency" : "Unidad Previsional",
+		"code" : "UYW",
+		"minor_unit" : 4,
+		"symbol" : null
+	},
+	{
+		"id" : "f054daba-5eea-41c3-b91d-3dd2dbf7172b",
+		"country" : "Uzbekistan",
+		"currency" : "Uzbekistan Sum",
+		"code" : "UZS",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "3cc3fb4d-f0df-4a16-afb1-43df94711ce3",
+		"country" : "Vanuatu",
+		"currency" : "Vatu",
+		"code" : "VUV",
+		"minor_unit" : 0,
+		"symbol" : null
+	},
+	{
+		"id" : "775307b4-f881-41ef-aef3-f4637d4cec92",
+		"country" : "Venezuela",
+		"currency" : "Bolívar Soberano",
+		"code" : "VES",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "1b4bbe6e-677f-4a02-8772-49c6fb941acf",
+		"country" : "Vietnam",
+		"currency" : "Dong",
+		"code" : "VND",
+		"minor_unit" : 0,
+		"symbol" : "₫"
+	},
+	{
+		"id" : "70739418-0ca9-463e-a8a9-fdb51e0877e9",
+		"country" : "Virgin Islands (British)",
+		"currency" : "US Dollar",
+		"code" : "USD",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "f7fa5296-59f1-4d5e-bf8a-bcc2ec1b16e2",
+		"country" : "Virgin Islands (U.S.)",
+		"currency" : "US Dollar",
+		"code" : "USD",
+		"minor_unit" : 2,
+		"symbol" : "$"
+	},
+	{
+		"id" : "4c5272cd-2515-4357-8a9b-60ba1e0fb76b",
+		"country" : "Wallis And Futuna",
+		"currency" : "CFP Franc",
+		"code" : "XPF",
+		"minor_unit" : 0,
+		"symbol" : null
+	},
+	{
+		"id" : "1d970740-1e08-4cde-871e-96af1c22fa10",
+		"country" : "Western Sahara",
+		"currency" : "Moroccan Dirham",
+		"code" : "MAD",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "d2a60ba8-4153-43c6-b56d-332a88da100f",
+		"country" : "Yemen",
+		"currency" : "Yemeni Rial",
+		"code" : "YER",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "50ec0154-c191-434c-b1e3-82fa76ab159a",
+		"country" : "Zambia",
+		"currency" : "Zambian Kwacha",
+		"code" : "ZMW",
+		"minor_unit" : 2,
+		"symbol" : null
+	},
+	{
+		"id" : "b5f8e12c-8d2e-4c77-86da-fb7a3768315a",
+		"country" : "Zimbabwe",
+		"currency" : "Zimbabwe Dollar",
+		"code" : "ZWL",
+		"minor_unit" : 2,
+		"symbol" : null
+	}
+]}

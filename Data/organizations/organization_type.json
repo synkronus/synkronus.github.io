@@ -1,0 +1,27 @@
+{
+"dtref_type_org": [
+	{
+		"id" : "ad3c234b-d618-42f4-818c-b3b7f51577f3",
+		"name" : "Corporative",
+		"description" : "Private Company",
+		"translations" : ""
+	},
+	{
+		"id" : "f57a8d18-dc59-49d6-920d-3a91950d5a86",
+		"name" : "Governamental",
+		"description" : "Governamental Company",
+		"translations" : ""
+	},
+	{
+		"id" : "f3035cc0-fbf5-4649-9c26-e4cfa5a37f8c",
+		"name" : "Non Profit",
+		"description" : "Non Profit Organizations",
+		"translations" : ""
+	},
+	{
+		"id" : "e0a3601b-017c-4714-b758-60db93672e19",
+		"name" : "Retail",
+		"description" : "Retail Company",
+		"translations" : ""
+	}
+]}

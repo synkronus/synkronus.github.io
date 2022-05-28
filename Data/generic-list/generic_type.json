@@ -1,0 +1,547 @@
+{
+"dtref_generic_types": [
+	{
+		"id" : "8c7d80b2-d0b7-4af5-9c13-1025191ad9a3",
+		"parent_id" : null,
+		"name" : "Identification",
+		"code" : "ID",
+		"description" : "Identifications types",
+		"translations" : ""
+	},
+	{
+		"id" : "bda2f5b6-fc56-4ea5-8ef8-7a99c89910f4",
+		"parent_id" : null,
+		"name" : "Blood",
+		"code" : "ID",
+		"description" : "Blood types",
+		"translations" : ""
+	},
+	{
+		"id" : "1501839c-1dfd-4e1e-859d-4a8305a15959",
+		"parent_id" : null,
+		"name" : "Status",
+		"code" : "ID",
+		"description" : "Marrial Status",
+		"translations" : ""
+	},
+	{
+		"id" : "046aaa32-7c70-4d9c-ac81-f764f548db94",
+		"parent_id" : null,
+		"name" : "Ethnic",
+		"code" : "ID",
+		"description" : "Ethnic types",
+		"translations" : ""
+	},
+	{
+		"id" : "3fc943dd-52fd-4e60-9c23-34f82b7455df",
+		"parent_id" : null,
+		"name" : "Disabilities",
+		"code" : "ID",
+		"description" : "Disabilities types",
+		"translations" : ""
+	},
+	{
+		"id" : "6c21ee1a-9ebc-4f28-b000-fca2cfde9084",
+		"parent_id" : null,
+		"name" : "Media",
+		"code" : "ID",
+		"description" : "Media types",
+		"translations" : ""
+	},
+	{
+		"id" : "a8f6a0a2-a595-4775-b2e8-e62984adf436",
+		"parent_id" : null,
+		"name" : "Eduation",
+		"code" : "ID",
+		"description" : "Eduation types",
+		"translations" : ""
+	},
+	{
+		"id" : "7648a065-5a8a-428a-aaa8-4fac3f392cab",
+		"parent_id" : null,
+		"name" : "Genero",
+		"code" : "GN",
+		"description" : "Gender types",
+		"translations" : ""
+	},
+	{
+		"id" : "4dc8428b-360a-4ff6-a76b-2e45a146e575",
+		"parent_id" : null,
+		"name" : "Email",
+		"code" : "EM",
+		"description" : "Email types",
+		"translations" : ""
+	},
+	{
+		"id" : "9fceffa5-dd70-4287-90ee-4522f91e0980",
+		"parent_id" : "4dc8428b-360a-4ff6-a76b-2e45a146e575",
+		"name" : "Personal",
+		"code" : "PS",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "cf8f7835-f34d-46bd-a008-c304f3c45fa6",
+		"parent_id" : "4dc8428b-360a-4ff6-a76b-2e45a146e575",
+		"name" : "Corporativo",
+		"code" : "CRP",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "4fda9b60-ff5f-444f-b9fd-0382156533c3",
+		"parent_id" : "7648a065-5a8a-428a-aaa8-4fac3f392cab",
+		"name" : "Masculino",
+		"code" : "M",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "a621d3cf-c468-40db-9cc5-fcfa4798c83f",
+		"parent_id" : "7648a065-5a8a-428a-aaa8-4fac3f392cab",
+		"name" : "Femenino",
+		"code" : "F",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "32714100-ac58-4cca-877c-4a030a4fe48b",
+		"parent_id" : "7648a065-5a8a-428a-aaa8-4fac3f392cab",
+		"name" : "Otro",
+		"code" : "O",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "0fe70595-5d00-424e-bb22-320bd668aaf2",
+		"parent_id" : "8c7d80b2-d0b7-4af5-9c13-1025191ad9a3",
+		"name" : "Cedula De Ciudadania",
+		"code" : "CC",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "d6ef821f-d9e5-4e09-b046-8125738f6bf6",
+		"parent_id" : "8c7d80b2-d0b7-4af5-9c13-1025191ad9a3",
+		"name" : "Cedula De Extranjeria",
+		"code" : "CE",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "663025aa-6e91-4e68-b59b-c8147af17d6b",
+		"parent_id" : "8c7d80b2-d0b7-4af5-9c13-1025191ad9a3",
+		"name" : "Certificado Cabildo",
+		"code" : "CA",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "2e2e60f2-e23f-4556-95ae-0337b5e33b0a",
+		"parent_id" : "8c7d80b2-d0b7-4af5-9c13-1025191ad9a3",
+		"name" : "Nit",
+		"code" : "NIT",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "f8df7c8c-7e66-404f-ab8e-939be86792c3",
+		"parent_id" : "8c7d80b2-d0b7-4af5-9c13-1025191ad9a3",
+		"name" : "Numero Unico Nuip",
+		"code" : "NU",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "3778646c-3500-4ea8-9ae1-f59862108feb",
+		"parent_id" : "8c7d80b2-d0b7-4af5-9c13-1025191ad9a3",
+		"name" : "Pasaporte",
+		"code" : "PS",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "3bdbd938-4397-4e22-ae1d-0f098703c1e2",
+		"parent_id" : "8c7d80b2-d0b7-4af5-9c13-1025191ad9a3",
+		"name" : "Tarjeta De Identidad",
+		"code" : "TI",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "1347a7da-73f0-4b0d-8728-0113426d1524",
+		"parent_id" : "8c7d80b2-d0b7-4af5-9c13-1025191ad9a3",
+		"name" : "Visa",
+		"code" : "VA",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "a15fa240-83cf-4a3c-9526-11af0b361f78",
+		"parent_id" : "bda2f5b6-fc56-4ea5-8ef8-7a99c89910f4",
+		"name" : "Ab Negativo",
+		"code" : "Rhabn",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "5c603241-32be-4889-bda0-dfed783c3ccb",
+		"parent_id" : "bda2f5b6-fc56-4ea5-8ef8-7a99c89910f4",
+		"name" : "Ab Positivo",
+		"code" : "Rhabp",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "2b327e60-8e8e-4e10-9659-b9fe8e961759",
+		"parent_id" : "bda2f5b6-fc56-4ea5-8ef8-7a99c89910f4",
+		"name" : "A Negativo",
+		"code" : "Rhan",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "defd95f0-6127-4922-9f3a-95e0842718b5",
+		"parent_id" : "bda2f5b6-fc56-4ea5-8ef8-7a99c89910f4",
+		"name" : "A Positivo",
+		"code" : "Rhap",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "208123c0-9d17-422a-bf66-fa06b344b5dd",
+		"parent_id" : "bda2f5b6-fc56-4ea5-8ef8-7a99c89910f4",
+		"name" : "B Negativo",
+		"code" : "Rhbn",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "db669fdb-e6f2-4803-922c-6fcab83b871b",
+		"parent_id" : "bda2f5b6-fc56-4ea5-8ef8-7a99c89910f4",
+		"name" : "B Positivo",
+		"code" : "Rhbp",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "8971c871-6364-4bf7-9980-16c81fa5b791",
+		"parent_id" : "bda2f5b6-fc56-4ea5-8ef8-7a99c89910f4",
+		"name" : "O Negativo",
+		"code" : "Rhon",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "3b589ccb-d030-4c25-81bf-76ce7e61c40d",
+		"parent_id" : "bda2f5b6-fc56-4ea5-8ef8-7a99c89910f4",
+		"name" : "O Positivo",
+		"code" : "Rhop",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "148ab5a4-eac1-46d9-aa1e-eeb8a458f396",
+		"parent_id" : "1501839c-1dfd-4e1e-859d-4a8305a15959",
+		"name" : "Casado(A)",
+		"code" : "C",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "95af0369-5ca6-4268-91c9-ef43e86fd7da",
+		"parent_id" : "1501839c-1dfd-4e1e-859d-4a8305a15959",
+		"name" : "Divorciado(A)",
+		"code" : "D",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "33b70eef-efc6-4006-bc4b-437966ddef93",
+		"parent_id" : "1501839c-1dfd-4e1e-859d-4a8305a15959",
+		"name" : "Separado(A)",
+		"code" : "P",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "beb75731-1395-4497-943b-c66bde39d782",
+		"parent_id" : "1501839c-1dfd-4e1e-859d-4a8305a15959",
+		"name" : "Religioso(A)",
+		"code" : "R",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "03441631-e1a8-4f2f-806c-44087f7477ad",
+		"parent_id" : "1501839c-1dfd-4e1e-859d-4a8305a15959",
+		"name" : "Soltero(A)",
+		"code" : "S",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "d073293a-5efd-48b7-972d-2f349d51cbd3",
+		"parent_id" : "1501839c-1dfd-4e1e-859d-4a8305a15959",
+		"name" : "Union Libre",
+		"code" : "U",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "1d1d0d9c-53cc-42f2-9b53-4a48cab13da1",
+		"parent_id" : "1501839c-1dfd-4e1e-859d-4a8305a15959",
+		"name" : "Viudo(A)",
+		"code" : "V",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "86da04ac-b8d2-467c-ac3d-b3e29e1c5b2c",
+		"parent_id" : "046aaa32-7c70-4d9c-ac81-f764f548db94",
+		"name" : "Comunidad Negra",
+		"code" : "C",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "06132057-7e04-4658-95e3-2d606a1310c5",
+		"parent_id" : "046aaa32-7c70-4d9c-ac81-f764f548db94",
+		"name" : "No Informa",
+		"code" : "F",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "2ce28906-a366-40c2-a58f-e1b3ee8331ff",
+		"parent_id" : "046aaa32-7c70-4d9c-ac81-f764f548db94",
+		"name" : "Pueblo Indigena",
+		"code" : "I",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "087cecc1-033e-4f6c-9128-5e13fc2eedd0",
+		"parent_id" : "046aaa32-7c70-4d9c-ac81-f764f548db94",
+		"name" : "No Pertenece",
+		"code" : "N",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "30cacbfe-896e-4002-a341-6d278f1566a4",
+		"parent_id" : "046aaa32-7c70-4d9c-ac81-f764f548db94",
+		"name" : "Pueblo Rrom",
+		"code" : "R",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "25357954-a469-4d8a-8120-9ad83291f98f",
+		"parent_id" : "3fc943dd-52fd-4e60-9c23-34f82b7455df",
+		"name" : "No Aplica",
+		"code" : "Na",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "b8a84c0d-e5d8-4a50-8a95-c96b75e650d9",
+		"parent_id" : "3fc943dd-52fd-4e60-9c23-34f82b7455df",
+		"name" : "Sensorial Sordera Profunda",
+		"code" : "Sordera",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "ca4ef256-ce84-496f-84e4-051a1199a8dd",
+		"parent_id" : "3fc943dd-52fd-4e60-9c23-34f82b7455df",
+		"name" : "Discapacidad Sistemica",
+		"code" : "Sistemica",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "f72f65f6-336d-4897-a68d-db74149d7448",
+		"parent_id" : "3fc943dd-52fd-4e60-9c23-34f82b7455df",
+		"name" : "Sensorial Hipoacusia",
+		"code" : "Hipoacusia",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "73cc65f0-a438-482d-b43c-7feb2c833a5d",
+		"parent_id" : "3fc943dd-52fd-4e60-9c23-34f82b7455df",
+		"name" : "Sensorial Ceguera",
+		"code" : "Ceguera",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "fa689a9d-6af5-44b6-bd61-8ca04baae129",
+		"parent_id" : "3fc943dd-52fd-4e60-9c23-34f82b7455df",
+		"name" : "Sensorial Baja Vision",
+		"code" : "Vision",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "9200f9b9-2cf6-47b9-afb1-27ba0e6d12c8",
+		"parent_id" : "3fc943dd-52fd-4e60-9c23-34f82b7455df",
+		"name" : "Sordoceguera",
+		"code" : "Sordoceguera",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "fc08d65e-e654-469b-a6f2-2e2ad2ede1a1",
+		"parent_id" : "3fc943dd-52fd-4e60-9c23-34f82b7455df",
+		"name" : "Discapacidad Intelectual",
+		"code" : "Intelectual",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "9133a06b-b0e4-49cf-b841-1663605ad848",
+		"parent_id" : "3fc943dd-52fd-4e60-9c23-34f82b7455df",
+		"name" : "Discapacidad Psicosocial",
+		"code" : "Psicosocial",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "18884969-825b-4312-b421-2eb49bce5c32",
+		"parent_id" : "3fc943dd-52fd-4e60-9c23-34f82b7455df",
+		"name" : "Discapacidad Multiple",
+		"code" : "Multiple",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "f0280525-e1c3-4785-9909-5e233e9bf341",
+		"parent_id" : "3fc943dd-52fd-4e60-9c23-34f82b7455df",
+		"name" : "Discapacidad Fisica O Motora",
+		"code" : "Fisica O Motora",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "61d3100c-9560-4363-96e0-ab09fd3270c7",
+		"parent_id" : "6c21ee1a-9ebc-4f28-b000-fca2cfde9084",
+		"name" : "Buscador Google",
+		"code" : "Bug",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "46eb9dbe-ff16-43cd-ac55-3d05bc42a12c",
+		"parent_id" : "6c21ee1a-9ebc-4f28-b000-fca2cfde9084",
+		"name" : "Directorio Telefónico",
+		"code" : "Dit",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "cfd9c49e-ab01-4cfb-bbba-86de4cd63daa",
+		"parent_id" : "6c21ee1a-9ebc-4f28-b000-fca2cfde9084",
+		"name" : "Radio",
+		"code" : "Fdi",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "fd2708a3-ba19-49c8-9e16-262208aa1310",
+		"parent_id" : "6c21ee1a-9ebc-4f28-b000-fca2cfde9084",
+		"name" : "Ferias",
+		"code" : "Fer",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "b37487aa-e744-4aa5-b65e-d40cdea31f30",
+		"parent_id" : "6c21ee1a-9ebc-4f28-b000-fca2cfde9084",
+		"name" : "Televisión",
+		"code" : "Tv",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "2370632f-1c5b-4161-b68b-7ee3c5c4d0e3",
+		"parent_id" : "6c21ee1a-9ebc-4f28-b000-fca2cfde9084",
+		"name" : "Otro",
+		"code" : "Otr",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "c62a4738-80e6-4a26-b7a4-d416cf3fbd39",
+		"parent_id" : "a8f6a0a2-a595-4775-b2e8-e62984adf436",
+		"name" : "Preescolar",
+		"code" : "Preescolar",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "6e846a4b-4fac-4916-9ef6-c70bcab263c4",
+		"parent_id" : "a8f6a0a2-a595-4775-b2e8-e62984adf436",
+		"name" : "Bachillerato",
+		"code" : "Bachillerato",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "13ab5062-477e-4193-a517-2947f88a98c2",
+		"parent_id" : "a8f6a0a2-a595-4775-b2e8-e62984adf436",
+		"name" : "Profesional",
+		"code" : "Profesional",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "57222389-e76f-48cc-b0bd-985bff9a4bf6",
+		"parent_id" : "a8f6a0a2-a595-4775-b2e8-e62984adf436",
+		"name" : "Especializacion",
+		"code" : "Especializacion",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "94652f8d-b21c-4f88-9bc1-511dd6a63984",
+		"parent_id" : "a8f6a0a2-a595-4775-b2e8-e62984adf436",
+		"name" : "Maestria",
+		"code" : "Maestria",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "54bc66b3-3427-49ed-b31d-cbd3ddddf744",
+		"parent_id" : "a8f6a0a2-a595-4775-b2e8-e62984adf436",
+		"name" : "Doctorado",
+		"code" : "Doctorado",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "ae2a07f8-70b5-4c3f-8a0d-48b5997afbed",
+		"parent_id" : "7648a065-5a8a-428a-aaa8-4fac3f392cab",
+		"name" : "Masculino",
+		"code" : "M",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "0a262ab4-7377-4fec-8335-05dad2cab9c1",
+		"parent_id" : "7648a065-5a8a-428a-aaa8-4fac3f392cab",
+		"name" : "Femenino",
+		"code" : "F",
+		"description" : "",
+		"translations" : ""
+	},
+	{
+		"id" : "c7eaafa6-10e1-416c-8f76-b3c8bc05094b",
+		"parent_id" : "7648a065-5a8a-428a-aaa8-4fac3f392cab",
+		"name" : "Otro",
+		"code" : "Otro",
+		"description" : "",
+		"translations" : ""
+	}
+]}
